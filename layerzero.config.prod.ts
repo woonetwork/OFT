@@ -43,6 +43,9 @@ const config: OAppOmniGraphHardhat = {
         },
         {
             contract: solanaContract,
+            config: {
+                owner: '8ATsKQ16gNa3M9hXF7zAPvkjEREmzyhrXGHM6aKPPPDm',
+            },
         },
         {
             contract: baseContract,
