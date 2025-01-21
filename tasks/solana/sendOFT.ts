@@ -7,10 +7,10 @@ import { TOKEN_PROGRAM_ID } from '@solana/spl-token'
 import bs58 from 'bs58'
 import { task } from 'hardhat/config'
 
-import { formatEid } from '@layerzerolabs/devtools'
+import { formatEid, makeBytes32 } from '@layerzerolabs/devtools'
 import { types } from '@layerzerolabs/devtools-evm-hardhat'
 import { EndpointId } from '@layerzerolabs/lz-definitions'
-import { addressToBytes32 } from '@layerzerolabs/lz-v2-utilities'
+import { addressToBytes32, Options } from '@layerzerolabs/lz-v2-utilities'
 import { oft } from '@layerzerolabs/oft-v2-solana-sdk'
 
 import { deriveConnection, getExplorerTxLink, getLayerZeroScanLink } from './index'
@@ -72,6 +72,8 @@ task('lz:oft:solana:send', 'Send tokens from Solana to a target EVM chain')
             }
 
             const recipientAddressBytes32 = addressToBytes32(to)
+            // drop 1 x 10^13 wei gas = 0.00001 ETH on the dest EVM chain
+            const _options = Options.newOptions().addExecutorNativeDropOption(1e13, makeBytes32(to))
 
             const { nativeFee } = await oft.quote(
                 umi.rpc,
@@ -86,7 +88,7 @@ task('lz:oft:solana:send', 'Send tokens from Solana to a target EVM chain')
                     dstEid: toEid,
                     amountLd: BigInt(amount),
                     minAmountLd: 1n,
-                    options: Buffer.from(''),
+                    options: _options.toBytes(),
                     composeMsg: undefined,
                 },
                 {
@@ -107,7 +109,7 @@ task('lz:oft:solana:send', 'Send tokens from Solana to a target EVM chain')
                     dstEid: toEid,
                     amountLd: BigInt(amount),
                     minAmountLd: (BigInt(amount) * BigInt(9)) / BigInt(10),
-                    options: Buffer.from(''),
+                    options: _options.toBytes(),
                     composeMsg: undefined,
                     nativeFee,
                 },

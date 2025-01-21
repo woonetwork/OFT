@@ -5,6 +5,7 @@ import { ActionType, HardhatRuntimeEnvironment } from 'hardhat/types'
 
 import { makeBytes32 } from '@layerzerolabs/devtools'
 import { EndpointId } from '@layerzerolabs/lz-definitions'
+import { Options } from '@layerzerolabs/lz-v2-utilities'
 
 import { getLayerZeroScanLink } from '../solana'
 
@@ -16,7 +17,7 @@ interface TaskArguments {
 
 const action: ActionType<TaskArguments> = async ({ dstEid, amount, to }, hre: HardhatRuntimeEnvironment) => {
     const signer = await hre.ethers.getNamedSigner('deployer')
-    const tokenName = 'WooTokenOFTAdapter'
+    const tokenName = 'WooTokenOFT'
     // @ts-ignore
     const token = (await hre.ethers.getContract(tokenName)).connect(signer)
 
@@ -31,13 +32,17 @@ const action: ActionType<TaskArguments> = async ({ dstEid, amount, to }, hre: Ha
     }
 
     const amountLD = BigNumber.from(amount)
+    // drop 5 x 10^13 wei gas = 0.00005 ETH on the dest EVM chain
+    // const options = Options.newOptions().addExecutorNativeDropOption(5e13, makeBytes32(to))
+    // drop 2 x 10^6 lamport gas = 0.002 SOL on the dest Solana chain
+    const options = Options.newOptions().addExecutorNativeDropOption(2e6, makeBytes32(bs58.decode(to)))
     const sendParam = {
         dstEid,
-        //to: makeBytes32(bs58.decode(to)), // to solana address
-        to: makeBytes32(to), // to evm address
+        to: makeBytes32(bs58.decode(to)), // to solana address
+        //to: makeBytes32(to), // to evm address
         amountLD: amountLD.toString(),
         minAmountLD: amountLD.mul(9_000).div(10_000).toString(),
-        extraOptions: '0x',
+        extraOptions: options.toHex(),
         composeMsg: '0x',
         oftCmd: '0x',
     }
