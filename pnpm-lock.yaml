@@ -23,26 +23,26 @@ importers:
         specifier: ^5.7.0
         version: 5.7.0
       '@layerzerolabs/devtools':
-        specifier: ~0.4.1
-        version: 0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
+        specifier: ~0.4.5
+        version: 0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
       '@layerzerolabs/devtools-evm':
-        specifier: ~1.0.0
-        version: 1.0.0(yndawg2n4w2vrqh66jxor477oe)
+        specifier: ~1.0.4
+        version: 1.0.4(hx3mujmloeqimi7ksqo5wpxpvy)
       '@layerzerolabs/devtools-evm-hardhat':
-        specifier: ^2.0.1
-        version: 2.0.1(ytvpk6qkmiwpcsz4e4s265cynq)
+        specifier: ^2.0.6
+        version: 2.0.6(p6k77pzecpgh6zc44vde4vytbi)
       '@layerzerolabs/devtools-solana':
-        specifier: ~1.0.1
-        version: 1.0.1(@layerzerolabs/devtools@0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bn.js@5.2.1)(bufferutil@4.0.8)(fp-ts@2.16.9)(utf-8-validate@5.0.10)(zod@3.23.8)
+        specifier: ~1.0.6
+        version: 1.0.6(@layerzerolabs/devtools@0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bn.js@5.2.1)(bufferutil@4.0.8)(fp-ts@2.16.9)(utf-8-validate@5.0.10)(zod@3.23.8)
       '@layerzerolabs/eslint-config-next':
         specifier: ~2.3.39
         version: 2.3.44(typescript@5.7.2)
       '@layerzerolabs/io-devtools':
-        specifier: ~0.1.11
-        version: 0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
+        specifier: ~0.1.15
+        version: 0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
       '@layerzerolabs/lz-definitions':
-        specifier: ^3.0.12
-        version: 3.0.18
+        specifier: ^3.0.59
+        version: 3.0.68
       '@layerzerolabs/lz-evm-messagelib-v2':
         specifier: ^3.0.12
         version: 3.0.18(@axelar-network/axelar-gmp-sdk-solidity@5.10.0)(@chainlink/contracts-ccip@0.7.6(bufferutil@4.0.8)(ethers@5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10))(utf-8-validate@5.0.10))(@eth-optimism/contracts@0.6.0(bufferutil@4.0.8)(ethers@5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10))(utf-8-validate@5.0.10))(@layerzerolabs/lz-evm-protocol-v2@3.0.18(@openzeppelin/contracts-upgradeable@5.1.0(@openzeppelin/contracts@5.1.0))(@openzeppelin/contracts@5.1.0)(hardhat-deploy@0.12.4(bufferutil@4.0.8)(utf-8-validate@5.0.10))(solidity-bytes-utils@0.8.2))(@layerzerolabs/lz-evm-v1-0.7@3.0.18(@openzeppelin/contracts-upgradeable@5.1.0(@openzeppelin/contracts@5.1.0))(@openzeppelin/contracts@5.1.0)(hardhat-deploy@0.12.4(bufferutil@4.0.8)(utf-8-validate@5.0.10)))(@openzeppelin/contracts-upgradeable@5.1.0(@openzeppelin/contracts@5.1.0))(@openzeppelin/contracts@5.1.0)(hardhat-deploy@0.12.4(bufferutil@4.0.8)(utf-8-validate@5.0.10))(solidity-bytes-utils@0.8.2)
@@ -62,29 +62,29 @@ importers:
         specifier: ^0.3.0
         version: 0.3.0(b4lshvt5gbve53ksz42rurj4dy)
       '@layerzerolabs/oft-evm':
-        specifier: ^3.0.0
-        version: 3.0.0(q5k3xzrm7criyy7ebtcbo4up6a)
+        specifier: ^3.1.0
+        version: 3.1.1(q5k3xzrm7criyy7ebtcbo4up6a)
       '@layerzerolabs/oft-v2-solana-sdk':
-        specifier: 3.0.0
-        version: 3.0.0(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)
+        specifier: ^3.0.59
+        version: 3.0.68(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)
       '@layerzerolabs/prettier-config-next':
         specifier: ^2.3.39
         version: 2.3.44
       '@layerzerolabs/protocol-devtools':
-        specifier: ^1.1.0
-        version: 1.1.0(@layerzerolabs/devtools@0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
+        specifier: ^1.1.4
+        version: 1.1.4(@layerzerolabs/devtools@0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
       '@layerzerolabs/protocol-devtools-evm':
-        specifier: ~3.0.0
-        version: 3.0.0(oa3ypzs3qh5mdkzvoqv7kgc4xe)
+        specifier: ~3.0.5
+        version: 3.0.5(m4t2d3o6ulrntmpczi4vr6yxga)
       '@layerzerolabs/protocol-devtools-solana':
-        specifier: ^4.0.0
-        version: 4.0.0(5qypkzh4lfgpr3s63eci6inp4y)
+        specifier: ^4.0.7
+        version: 4.0.7(k67kjvmewxl2uheutlxyqujtmi)
       '@layerzerolabs/solhint-config':
         specifier: ^3.0.12
         version: 3.0.18(typescript@5.7.2)
       '@layerzerolabs/test-devtools-evm-foundry':
-        specifier: ~5.1.0
-        version: 5.1.0(t5md2p4xjg75aakpvy3mvo4j6y)
+        specifier: ~6.0.1
+        version: 6.0.1(5rs5p7ujni4ow6ddrp6qqgcxji)
       '@layerzerolabs/test-devtools-evm-hardhat':
         specifier: ~0.5.0
         version: 0.5.0(hardhat@2.22.16(bufferutil@4.0.8)(ts-node@10.9.2(@swc/core@1.9.3(@swc/helpers@0.5.15))(@types/node@18.18.14)(typescript@5.7.2))(typescript@5.7.2)(utf-8-validate@5.0.10))(solidity-bytes-utils@0.8.2)
@@ -92,20 +92,20 @@ importers:
         specifier: ~0.1.9
         version: 0.1.9
       '@layerzerolabs/toolbox-hardhat':
-        specifier: ~0.6.0
-        version: 0.6.0(xnxsojg5nbje3d2qrpy2w4y2pe)
+        specifier: ~0.6.6
+        version: 0.6.6(xnxsojg5nbje3d2qrpy2w4y2pe)
       '@layerzerolabs/ua-devtools':
-        specifier: ~3.0.0
-        version: 3.0.0(vy43ptenw33asz3oxabub3frni)
+        specifier: ~3.0.4
+        version: 3.0.4(vnend5j44agttyiyihtut5kwuy)
       '@layerzerolabs/ua-devtools-evm':
-        specifier: ~5.0.0
-        version: 5.0.0(3oquswhql6qiifck45q2sxrbky)
+        specifier: ~5.0.5
+        version: 5.0.5(m37nqjuiwewpuwbnzol6xtev7u)
       '@layerzerolabs/ua-devtools-evm-hardhat':
-        specifier: ~6.0.1
-        version: 6.0.2(mlkylfp5hi75ttum6bsoxelase)
+        specifier: ~6.0.8
+        version: 6.0.8(zv7flfvo3ufj3lgdegs4jcbjpi)
       '@layerzerolabs/ua-devtools-solana':
-        specifier: ~4.0.0
-        version: 4.0.1(u26dzzxfha6hsre2vemaqaap3m)
+        specifier: ~4.1.0
+        version: 4.1.0(vouy6yru42fj6xxoh4lnbmwmca)
       '@metaplex-foundation/mpl-token-metadata':
         specifier: ^3.2.1
         version: 3.3.0(@metaplex-foundation/umi@0.9.2)
@@ -117,16 +117,16 @@ importers:
         version: 0.9.2
       '@metaplex-foundation/umi-bundle-defaults':
         specifier: ^0.9.2
-        version: 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))
+        version: 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))
       '@metaplex-foundation/umi-eddsa-web3js':
         specifier: ^0.9.2
-        version: 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))
+        version: 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))
       '@metaplex-foundation/umi-public-keys':
         specifier: ^0.8.9
         version: 0.8.9
       '@metaplex-foundation/umi-web3js-adapters':
         specifier: ^0.9.2
-        version: 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))
+        version: 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))
       '@nomicfoundation/hardhat-ethers':
         specifier: ^3.0.5
         version: 3.0.8(ethers@5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10))(hardhat@2.22.16(bufferutil@4.0.8)(ts-node@10.9.2(@swc/core@1.9.3(@swc/helpers@0.5.15))(@types/node@18.18.14)(typescript@5.7.2))(typescript@5.7.2)(utf-8-validate@5.0.10))
@@ -150,10 +150,10 @@ importers:
         version: 2.4.0(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)
       '@solana/spl-token':
         specifier: ^0.4.8
-        version: 0.4.9(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)
+        version: 0.4.9(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)
       '@solana/web3.js':
-        specifier: ~1.95.0
-        version: 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+        specifier: ~1.95.8
+        version: 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       '@sqds/sdk':
         specifier: ^2.0.4
         version: 2.0.4(bufferutil@4.0.8)(utf-8-validate@5.0.10)
@@ -804,24 +804,24 @@ packages:
   '@jridgewell/trace-mapping@0.3.9':
     resolution: {integrity: sha512-3Belt6tdc8bPgAtbcmdtNJlirVoTmEb5e2gC94PnkwEW9jI6CAHUeoG85tjWP5WquqfavoMtMwiG4P926ZKKuQ==}
 
-  '@layerzerolabs/devtools-evm-hardhat@2.0.1':
-    resolution: {integrity: sha512-wyFmLt0RVbnPM3L9rtRUuLz4OTzQ6AqQ9sknQ4svKyuy0FD5DLDMbYLCqfwGffzo2wyNRpGzBM3kuDxfA53xYA==}
+  '@layerzerolabs/devtools-evm-hardhat@2.0.6':
+    resolution: {integrity: sha512-w0znAJq/xdT8HtznQ2SjArJP/0f7hmrfiojD0JsALVG1Abqcem3H76UEFqVOSABRR9ZOqyz7mLmqgFMfW92EGw==}
     peerDependencies:
       '@ethersproject/abi': ^5.7.0
       '@ethersproject/abstract-signer': ^5.7.0
       '@ethersproject/contracts': ^5.7.0
       '@ethersproject/providers': ^5.7.0
-      '@layerzerolabs/devtools': ~0.4.1
-      '@layerzerolabs/devtools-evm': ~1.0.0
-      '@layerzerolabs/io-devtools': ~0.1.13
-      '@layerzerolabs/lz-definitions': ^3.0.12
+      '@layerzerolabs/devtools': ~0.4.5
+      '@layerzerolabs/devtools-evm': ~1.0.4
+      '@layerzerolabs/io-devtools': ~0.1.15
+      '@layerzerolabs/lz-definitions': ^3.0.59
       '@nomiclabs/hardhat-ethers': ^2.2.3
       fp-ts: ^2.16.2
       hardhat: ^2.22.10
       hardhat-deploy: ^0.12.1
 
-  '@layerzerolabs/devtools-evm@1.0.0':
-    resolution: {integrity: sha512-kCN8E/y3VPCbWmGodIOiA4c7CIvZ33XqYyeVxKvO9LpByyBdOxScrDiuzNscByytXImSyCZNfKDz18/2U8mfeQ==}
+  '@layerzerolabs/devtools-evm@1.0.4':
+    resolution: {integrity: sha512-aR7DUrZavRqwI5Wk9gLA7xp8XLD8LCiI1eXfZK0tXpRdiKdXmLMxUf1MiOBQmfeJcbfo80HyhxIhkRM6PeGk2A==}
     peerDependencies:
       '@ethersproject/abi': ^5.7.0
       '@ethersproject/abstract-provider': ^5.7.0
@@ -831,29 +831,29 @@ packages:
       '@ethersproject/constants': ^5.7.0
       '@ethersproject/contracts': ^5.7.0
       '@ethersproject/providers': ^5.7.0
-      '@layerzerolabs/devtools': ~0.4.0
-      '@layerzerolabs/io-devtools': ~0.1.12
-      '@layerzerolabs/lz-definitions': ^3.0.12
+      '@layerzerolabs/devtools': ~0.4.5
+      '@layerzerolabs/io-devtools': ~0.1.15
+      '@layerzerolabs/lz-definitions': ^3.0.59
       fp-ts: ^2.16.2
       zod: ^3.22.4
 
-  '@layerzerolabs/devtools-solana@1.0.1':
-    resolution: {integrity: sha512-Iw0s0oo8PxDmfO/xbptMnyhOzWeU227cLrgZxiXh67pNu4HS+3QoqQjptUV1IhApfnPDL2EBF95Kqullktrw9Q==}
+  '@layerzerolabs/devtools-solana@1.0.6':
+    resolution: {integrity: sha512-1oepbhe2XvWSzBw5qHq8lFGKQnrBgAwagJssuqMtC/SpVaD6h2UpjZxff3iuUOf75vW2W+0hzZ09LyXJ7fAQUA==}
     peerDependencies:
-      '@layerzerolabs/devtools': ~0.4.0
-      '@layerzerolabs/io-devtools': ~0.1.12
-      '@layerzerolabs/lz-definitions': ^3.0.12
-      '@solana/web3.js': ^1.95.0
+      '@layerzerolabs/devtools': ~0.4.5
+      '@layerzerolabs/io-devtools': ~0.1.15
+      '@layerzerolabs/lz-definitions': ^3.0.59
+      '@solana/web3.js': ^1.95.8
       bn.js: ^5.2.0
       fp-ts: ^2.16.2
       zod: ^3.22.4
 
-  '@layerzerolabs/devtools@0.4.1':
-    resolution: {integrity: sha512-LiLqzgaLalxZ2Q2dSvXkeIVmltCo27lKtxZVhsrW6AJmrcC6ZKOCyfVlte3Q2PN/jQbkXl0rbnoGaaNefVtC5Q==}
+  '@layerzerolabs/devtools@0.4.5':
+    resolution: {integrity: sha512-5Uq5kzFXlHkRTRlwXS5H4+BqSbVv7v3nGSIJn8SUbTGeaPK+l0NWbBNle5/3f9ohX454mrmGqyiMbKBuv0ScPQ==}
     peerDependencies:
       '@ethersproject/bytes': ~5.7.0
-      '@layerzerolabs/io-devtools': ~0.1.13
-      '@layerzerolabs/lz-definitions': ^3.0.12
+      '@layerzerolabs/io-devtools': ~0.1.15
+      '@layerzerolabs/lz-definitions': ^3.0.59
       zod: ^3.22.4
 
   '@layerzerolabs/eslint-config-next@2.3.44':
@@ -862,12 +862,15 @@ packages:
   '@layerzerolabs/evm-sdks-core@3.0.18':
     resolution: {integrity: sha512-3E0sN5tJCYnZ+CrrlFWrjsb69b7NIQLz2SZvhHZ180cJSy0z4T/bnfpNpPEas2eA6prW2TMsdnRrmtJ8/QyJ4g==}
 
-  '@layerzerolabs/export-deployments@0.0.14':
-    resolution: {integrity: sha512-OBwqci1LZGCq9ZSYfB4nHGZ3QKNVjr+yOUQB4M4gEpPrwaJGLOuOxQNLSEkRWPD8si22Nk48Elbrku8M1Ke3Ow==}
+  '@layerzerolabs/evm-sdks-core@3.0.68':
+    resolution: {integrity: sha512-CFTBji/lQ+DKyiQAngxHwGR6Idhm3H4hLmNeMkw/O/gKJ5sSW3h9Iu8TVGWcRmv86QPRyjPz1JLfPKlAe3FuCw==}
+
+  '@layerzerolabs/export-deployments@0.0.15':
+    resolution: {integrity: sha512-EjPf5FJ7rjzqg3+tF6gVKivpiMBSJpR+COLD1r1WsCiqhM4KaBbGX0LCN7F1CprY/Ewkw5QPfvO4SjQuaJtApg==}
     hasBin: true
 
-  '@layerzerolabs/io-devtools@0.1.14':
-    resolution: {integrity: sha512-ENiiwow9bu51MiJ0jxwhUchmimIuHevait8WTP4YtuSjRcWkT7g/8F6z3mTJs4BsCIVNOHdYWBFGgcB2IDTqdQ==}
+  '@layerzerolabs/io-devtools@0.1.15':
+    resolution: {integrity: sha512-Olxz8TwioXd/B95OTCqzkrMMG0GiZcD9yfRynFVl2bGV+4upowoF3vdPhYvKrgspJT6wS/6g+nE0//jrjAplig==}
     peerDependencies:
       ink: ^3.2.0
       ink-gradient: ^2.0.0
@@ -890,11 +893,17 @@ packages:
   '@layerzerolabs/lz-core@3.0.18':
     resolution: {integrity: sha512-fA6MpGGtEj6ndke9BWpoEINm3PLslCtJuJP6YObq8fSHoiVRn99ku4SAvM05JherXgtPLQrmETri/xXHeOuylg==}
 
+  '@layerzerolabs/lz-core@3.0.68':
+    resolution: {integrity: sha512-ZDKa90/We3cggmm8aosoxrKjAZCFtWj+eMqt24qqolAjgaTxsG9YoW8HElNwM4CYI3CCuSZOTFjh14UT6iKsBA==}
+
   '@layerzerolabs/lz-corekit-solana@3.0.18':
     resolution: {integrity: sha512-dnic7VcibHd/uGNSWIPvZIF7vOfcF4rjcdILRbqJMRde/Cer0c0hK1Rft1/JKXbOIAe0sv4n4f7/PSa6rRzFXg==}
 
-  '@layerzerolabs/lz-definitions@3.0.18':
-    resolution: {integrity: sha512-UwvnH+OMEv1jjoD7Rq514ZYXbcQTRdxqjiNCnm6FFgvASiBdNU8a2uO+cSQMJnPh8Aajxmv7r716XVmsLWrR5Q==}
+  '@layerzerolabs/lz-corekit-solana@3.0.68':
+    resolution: {integrity: sha512-452OcBNYpwbUuHrcmOw4Z+LN/QWWfNqYXGQAsc8XD7x+qa26CBvPP1l8XHIdQnQdzlujhYZsVpCS85ZKbC3hqg==}
+
+  '@layerzerolabs/lz-definitions@3.0.68':
+    resolution: {integrity: sha512-1/uywR0I2wY0cXA4y9w1GZURzC0eJMGGv2jk7RGD6yVXrIOHQrkVBobkcAJgdOvtbr93u74HI4gHcVI7GletQQ==}
 
   '@layerzerolabs/lz-evm-messagelib-v2@3.0.18':
     resolution: {integrity: sha512-TgFjwJG6EmDXgx9+Tg+eMUxe5MFTX6mucJMsy2aJW3SQpS8WrTPS/D1NwTOd8NagAjbsgEkW/xRSnp/un2aNIA==}
@@ -935,8 +944,8 @@ packages:
   '@layerzerolabs/lz-evm-sdk-v1@3.0.18':
     resolution: {integrity: sha512-F9RE53qb/9eq+ByePsaEBM7uoich3bwdahENLZ6d+haNCuvCmk+9YY3P0N3ofR2cllYbR550q4rbHWaOT3YVGA==}
 
-  '@layerzerolabs/lz-evm-sdk-v2@3.0.18':
-    resolution: {integrity: sha512-QcWhWxMZQp74e5i68zAzbIM3AjCRnciTJRw3DiJPwLHRtyMFnSuYFWxgsllSizFaP8MF3Z47sFJF3TdVA4Et0g==}
+  '@layerzerolabs/lz-evm-sdk-v2@3.0.68':
+    resolution: {integrity: sha512-zX4WiCt6VCxPa2ewA3n/glwF9A3LzFI3yZFQ/UYfpAo5V1/u19JiCwJ5IBpbwt7+JB6oWb+lE84u12nL668Hmg==}
 
   '@layerzerolabs/lz-evm-v1-0.7@3.0.18':
     resolution: {integrity: sha512-IA3f42AAclTX4Lw9ehNrw87fF30onsZJj2kqZv6NN2Jdvp/oj6vQ6edbAbgw6KAXCVK96Ah20aLlL2jBzAaApA==}
@@ -945,14 +954,29 @@ packages:
       '@openzeppelin/contracts-upgradeable': 3.4.2-solc-0.7 || ^3.4.2 || ^4.0.0 || ^5.0.0
       hardhat-deploy: ^0.12.1
 
+  '@layerzerolabs/lz-foundation@3.0.68':
+    resolution: {integrity: sha512-DBtZatmRw8KzgyMDmmpGzXL5WRQWuEQoiay7cPxmZVZ9QuqnhHtyOPQnOqSo8T+chenKFWlS9sxWQy4tLTtPOg==}
+
+  '@layerzerolabs/lz-serdes@3.0.68':
+    resolution: {integrity: sha512-N4htLgAcdQI5mxpl61J1N3PzaxeL3OMe6gDXR5pWBw9H+LapVUj96sbjfxeYnAVJwXt7EL0IQqJJEovOMTYrww==}
+
   '@layerzerolabs/lz-solana-sdk-v2@3.0.0':
     resolution: {integrity: sha512-sPvLXeQUO9QLpjOuWE7V+V8yfoI4E/NBYsH9lO2aPx0LYkQa+88ACgPq43B/zFROUD8238WuSb+doGrn3PKtJQ==}
+
+  '@layerzerolabs/lz-solana-sdk-v2@3.0.68':
+    resolution: {integrity: sha512-QuKhbsDH+peW4xDlbSul8Wkk9lWcdTWavQgbgmodWQ5JEUqRW3+LJ425djvJWBzR8B4UtJETyA2Uo3+qTVTzmQ==}
 
   '@layerzerolabs/lz-utilities@3.0.18':
     resolution: {integrity: sha512-6sGxPMCHT1+N+6BgpksSvy+YOKpebGNbtWgm1S//+wfQl4JyK95wrQ18TKphcnzqT0ZYbgYP6w41gRCSURhhkQ==}
 
+  '@layerzerolabs/lz-utilities@3.0.68':
+    resolution: {integrity: sha512-zxvqzkfggxA0tK86DCrZT/fchdSDXfM3wVWGO+g37WOf/mmcu/aE1AKLixtI4UaNWUDjT0w8QCIAacRZyOI4kA==}
+
   '@layerzerolabs/lz-v2-utilities@3.0.18':
     resolution: {integrity: sha512-snkWHQwNPXQ3R1A2frk8Nd5BnCrkCCy02N2AXFfyPwg8nzFUmmZdXNUOAKsq2FJrQDfY5sGz9WbaTcu9c7g+XA==}
+
+  '@layerzerolabs/lz-v2-utilities@3.0.68':
+    resolution: {integrity: sha512-8cE76dq+m5a6HohVvZ2ov13Im+84PfAV7wiD07tjNW6KbIVEoooXnOe6kTldtBVXWbdjjVVm3szPaWqx+ProAw==}
 
   '@layerzerolabs/oapp-evm@0.3.0':
     resolution: {integrity: sha512-eP0zqNx72TQE11exObw7eYt5uwGuUv0kKtatYO/+dZuEjfhUdR9H6dj1CIbn/ozeKT56rZwj9LtSkDGl7FnqVw==}
@@ -963,8 +987,8 @@ packages:
       '@openzeppelin/contracts': ^4.8.1 || ^5.0.0
       '@openzeppelin/contracts-upgradeable': ^4.8.1 || ^5.0.0
 
-  '@layerzerolabs/oft-evm@3.0.0':
-    resolution: {integrity: sha512-dP5/fmjWQ5TTEIknKRr8o9W3SUpgOf/1jtThDVqryUMuwoS1YF87xPKwi+fS8GxnEWyfmEJlLY2URHzF9UnzkQ==}
+  '@layerzerolabs/oft-evm@3.1.1':
+    resolution: {integrity: sha512-auJejTKoNiHINo8qV79r1AxTqhPq8itCNBcvERXTC1BvS5piNSHtfDMbsBrvwqxM0CIBeYJDzIe1yTnYcyLCig==}
     peerDependencies:
       '@layerzerolabs/lz-evm-messagelib-v2': ^3.0.12
       '@layerzerolabs/lz-evm-protocol-v2': ^3.0.12
@@ -973,14 +997,14 @@ packages:
       '@openzeppelin/contracts': ^4.8.1 || ^5.0.0
       '@openzeppelin/contracts-upgradeable': ^4.8.1 || ^5.0.0
 
-  '@layerzerolabs/oft-v2-solana-sdk@3.0.0':
-    resolution: {integrity: sha512-fiamhnEafuf83B45mDwj17rvp1BLFUmYGJEtzjp+nkKV6ZVwQwdtCXocq/5Kh8BbflEXmvpkHP+KxCHremFw6g==}
+  '@layerzerolabs/oft-v2-solana-sdk@3.0.68':
+    resolution: {integrity: sha512-AzknykkdZXyDVcmCBFeL+aCjLgTUcUVeI/0W8YIn9st+oZ7PWGYfisgRlhLsZKWOxaZMJwYwu8h6i+dzwfycdQ==}
 
   '@layerzerolabs/prettier-config-next@2.3.44':
     resolution: {integrity: sha512-mIsxKLaelXHXXXvMEAE6Jc8IVydra0PesHquHYwvxFKwDhMhzfrnoRLLzbgCX/Zi1q0GGET/oMAKJTs6OWFPxQ==}
 
-  '@layerzerolabs/protocol-devtools-evm@3.0.0':
-    resolution: {integrity: sha512-BDLbRGTGAo4o/b1CWg+xALzIMxdO7RgX7G/16O1R3fFuXQkAroNsR8tfD4B2W5IcHoTNLuDSZOY6a0JfFlSHHQ==}
+  '@layerzerolabs/protocol-devtools-evm@3.0.5':
+    resolution: {integrity: sha512-iybd5N9Ybo4E1Whaaz/pxYGo3MVIF/D5jm3MTM4VwfpB1cmqi/+xUyUJChHZHMXhXejxeD81M4HqJnLH+x+ogQ==}
     peerDependencies:
       '@ethersproject/abstract-provider': ^5.7.0
       '@ethersproject/abstract-signer': ^5.7.0
@@ -988,47 +1012,47 @@ packages:
       '@ethersproject/constants': ^5.7.0
       '@ethersproject/contracts': ^5.7.0
       '@ethersproject/providers': ^5.7.0
-      '@layerzerolabs/devtools': ~0.4.0
-      '@layerzerolabs/devtools-evm': ~1.0.0
-      '@layerzerolabs/io-devtools': ~0.1.12
-      '@layerzerolabs/lz-definitions': ^3.0.12
-      '@layerzerolabs/protocol-devtools': ~1.1.0
+      '@layerzerolabs/devtools': ~0.4.5
+      '@layerzerolabs/devtools-evm': ~1.0.4
+      '@layerzerolabs/io-devtools': ~0.1.15
+      '@layerzerolabs/lz-definitions': ^3.0.59
+      '@layerzerolabs/protocol-devtools': ~1.1.4
       zod: ^3.22.4
 
-  '@layerzerolabs/protocol-devtools-solana@4.0.0':
-    resolution: {integrity: sha512-DhJtKDe+iaDA9JVd30fj3vflUDe0N8hNF6JHHQuFtOk+cwRWVghhIM8KL4I8jA+IOLmp5+qJephpG+Rkr+npNw==}
+  '@layerzerolabs/protocol-devtools-solana@4.0.7':
+    resolution: {integrity: sha512-9tGPuEGE7UuKNzNFnCQtOPgXSRnT8eAC9hEL7dn+NXxJkwNHBoB3grzQRqMO2BaCaDKO/HE4PyNo2Z0HieGOYw==}
     peerDependencies:
-      '@layerzerolabs/devtools': ~0.4.0
-      '@layerzerolabs/devtools-solana': ~1.0.0
-      '@layerzerolabs/io-devtools': ~0.1.12
-      '@layerzerolabs/lz-definitions': ^3.0.12
+      '@layerzerolabs/devtools': ~0.4.5
+      '@layerzerolabs/devtools-solana': ~1.0.6
+      '@layerzerolabs/io-devtools': ~0.1.15
+      '@layerzerolabs/lz-definitions': ^3.0.59
       '@layerzerolabs/lz-solana-sdk-v2': ^3.0.0
       '@layerzerolabs/lz-v2-utilities': ^3.0.12
-      '@layerzerolabs/protocol-devtools': ^1.1.0
-      '@layerzerolabs/ua-devtools': ^3.0.0
-      '@solana/web3.js': ^1.95.0
+      '@layerzerolabs/protocol-devtools': ^1.1.4
+      '@layerzerolabs/ua-devtools': ^3.0.4
+      '@solana/web3.js': ^1.95.8
       fp-ts: ^2.16.2
       zod: ^3.22.4
 
-  '@layerzerolabs/protocol-devtools@1.1.0':
-    resolution: {integrity: sha512-2uFqJ25nT0nWfWWa/Bl0HoBdZkxwGQXKeVF0J8gh80YNY0kS/49jY9AbrolK5Mo+cO5gw3yqlAxHLEYzHRt+cQ==}
+  '@layerzerolabs/protocol-devtools@1.1.4':
+    resolution: {integrity: sha512-IBopjjpD5EjJnW/c2FltWKnEYJtZUEItLZ2EzvoJJRzWfAyWo7VwIGWn6nSWwov/gweaOuzi+jT4W2JoNDRLyw==}
     peerDependencies:
-      '@layerzerolabs/devtools': ~0.4.0
-      '@layerzerolabs/io-devtools': ~0.1.14
-      '@layerzerolabs/lz-definitions': ^3.0.12
+      '@layerzerolabs/devtools': ~0.4.5
+      '@layerzerolabs/io-devtools': ~0.1.15
+      '@layerzerolabs/lz-definitions': ^3.0.59
       zod: ^3.22.4
 
   '@layerzerolabs/solhint-config@3.0.18':
     resolution: {integrity: sha512-EiVm7h/wyOuWgdxO5fYEMUbs/NHw9VyydcyJp1Az0sozdBxhcOBsRzNeogqnh5h77SkLDPcHTK77NBco4rNwMw==}
 
-  '@layerzerolabs/test-devtools-evm-foundry@5.1.0':
-    resolution: {integrity: sha512-LDfBMeb5VQRMRXadpNgUe5Knib5FdCQ24S2o+kWMS/qPS6ZbPGe7fnhFPhcifautuhMS8i9Rk7cMjoAxRGFdfQ==}
+  '@layerzerolabs/test-devtools-evm-foundry@6.0.1':
+    resolution: {integrity: sha512-u3IgWAHrbh3+iKvJl8JyEpm5N5k3oOw3HUfg07hCeMxSXIN9Fv8ZahK1vEHSm791dX26BmHI+CL2jtBcUYheIA==}
     peerDependencies:
       '@layerzerolabs/lz-evm-messagelib-v2': ^3.0.12
       '@layerzerolabs/lz-evm-protocol-v2': ^3.0.12
       '@layerzerolabs/lz-evm-v1-0.7': ^3.0.12
       '@layerzerolabs/oapp-evm': ^0.3.0
-      '@layerzerolabs/oft-evm': ^3.0.0
+      '@layerzerolabs/oft-evm': ^3.1.0
       '@openzeppelin/contracts': ^4.9.5 || ^5.0.0
       '@openzeppelin/contracts-upgradeable': ^4.9.5 || ^5.0.0
 
@@ -1041,74 +1065,74 @@ packages:
   '@layerzerolabs/toolbox-foundry@0.1.9':
     resolution: {integrity: sha512-OVOT7Nt3uaX3VaqA3zqKP+ZIfsSo2X7c3jbrBb0I0ewsxNung+pYrYtCUhSoLLHQ1eOteh08C8Pq8A/Tbud/tg==}
 
-  '@layerzerolabs/toolbox-hardhat@0.6.0':
-    resolution: {integrity: sha512-xoV4Dqw8uSW6PdoYJ+wYh40UVItDeXGJKkSusT3i3wrpVy0dkuLmkWbl4QJMVKJGLnTsd392VEjvfDzvvLbh5w==}
+  '@layerzerolabs/toolbox-hardhat@0.6.6':
+    resolution: {integrity: sha512-/rAo0OVW6lXjZPruEvk6k7IyMsGsqfWBLtAyw5n3WRrEBWjrIkEAO45QbIfoM1NROhwTKqCY8NK6yWu1Spki3w==}
     peerDependencies:
       '@nomicfoundation/hardhat-ethers': ^3.0.2
       ethers: ^5.7.2
       hardhat: ^2.22.10
       hardhat-deploy: ^0.12.1
 
-  '@layerzerolabs/ua-devtools-evm-hardhat@6.0.2':
-    resolution: {integrity: sha512-IZGLNWNIKHt7DWASd3MxsV7sX5ct477Dd3NixMhK1/akiw09piXgSdioyVdFzLD4AlQBgoOSSOSJ8smDYOByIg==}
+  '@layerzerolabs/ua-devtools-evm-hardhat@6.0.8':
+    resolution: {integrity: sha512-1Yi3mJ7Vtq+xxhmiRxjt6AlOuoVwjYx/3MYUFrqP82uY5XPKHJBMioFhSOGAbcdLbKDn4R7Ro/KzB3KntclWfQ==}
     peerDependencies:
       '@ethersproject/abi': ^5.7.0
       '@ethersproject/bytes': ^5.7.0
       '@ethersproject/contracts': ^5.7.0
       '@ethersproject/hash': ^5.7.0
-      '@layerzerolabs/devtools': ~0.4.1
-      '@layerzerolabs/devtools-evm': ~1.0.0
-      '@layerzerolabs/devtools-evm-hardhat': ~2.0.0
-      '@layerzerolabs/io-devtools': ~0.1.13
-      '@layerzerolabs/lz-definitions': ^3.0.12
-      '@layerzerolabs/protocol-devtools': ~1.1.0
-      '@layerzerolabs/protocol-devtools-evm': ~3.0.0
-      '@layerzerolabs/ua-devtools': ~3.0.0
-      '@layerzerolabs/ua-devtools-evm': ~5.0.0
+      '@layerzerolabs/devtools': ~0.4.5
+      '@layerzerolabs/devtools-evm': ~1.0.4
+      '@layerzerolabs/devtools-evm-hardhat': ~2.0.6
+      '@layerzerolabs/io-devtools': ~0.1.15
+      '@layerzerolabs/lz-definitions': ^3.0.59
+      '@layerzerolabs/protocol-devtools': ~1.1.4
+      '@layerzerolabs/protocol-devtools-evm': ~3.0.5
+      '@layerzerolabs/ua-devtools': ~3.0.4
+      '@layerzerolabs/ua-devtools-evm': ~5.0.5
       ethers: ^5.7.2
       hardhat: ^2.22.10
       hardhat-deploy: ^0.12.1
 
-  '@layerzerolabs/ua-devtools-evm@5.0.0':
-    resolution: {integrity: sha512-OFx/NWAkMQ4QBsj2OM4xUb1htvnmPnKt6n0Vzl4GCKO0DlH+ngHOrRCoeNc1j4tyZ4We20X0QXIjf0jj1EfIkw==}
+  '@layerzerolabs/ua-devtools-evm@5.0.5':
+    resolution: {integrity: sha512-p9DQaLjnFRm6IY5uk1PUEMR2yysEiJZk5nDBbV8lu3Fn+KesG9OHYzYkv92SjfBButW6C+WyE10uuKkETpfVrA==}
     peerDependencies:
       '@ethersproject/constants': ^5.7.0
       '@ethersproject/contracts': ^5.7.0
-      '@layerzerolabs/devtools': ~0.4.0
-      '@layerzerolabs/devtools-evm': ~1.0.0
-      '@layerzerolabs/io-devtools': ~0.1.12
-      '@layerzerolabs/lz-definitions': ^3.0.12
+      '@layerzerolabs/devtools': ~0.4.5
+      '@layerzerolabs/devtools-evm': ~1.0.4
+      '@layerzerolabs/io-devtools': ~0.1.15
+      '@layerzerolabs/lz-definitions': ^3.0.59
       '@layerzerolabs/lz-v2-utilities': ^3.0.12
-      '@layerzerolabs/protocol-devtools': ~1.1.0
-      '@layerzerolabs/protocol-devtools-evm': ~3.0.0
-      '@layerzerolabs/ua-devtools': ~3.0.0
+      '@layerzerolabs/protocol-devtools': ~1.1.4
+      '@layerzerolabs/protocol-devtools-evm': ~3.0.5
+      '@layerzerolabs/ua-devtools': ~3.0.4
       zod: ^3.22.4
 
-  '@layerzerolabs/ua-devtools-solana@4.0.1':
-    resolution: {integrity: sha512-iOyNKTL/I/i0v2kl+xJKYYUxhlRu3iNPgpBLt6Ao4yJ+UVRJ2GCv8jQsFq/ANxsSUP4wMuilluLjgpmbkLqqBg==}
+  '@layerzerolabs/ua-devtools-solana@4.1.0':
+    resolution: {integrity: sha512-OUYpukIxFN7QnUWKlgcWd+Dx8P1XeG2vhAR7NgwBcZTkPKWSjLkPhWJ+CK157jI0UHyKsApGTbpPBdHlutErsA==}
     peerDependencies:
-      '@layerzerolabs/devtools': ~0.4.0
-      '@layerzerolabs/devtools-solana': ~1.0.0
-      '@layerzerolabs/io-devtools': ~0.1.12
-      '@layerzerolabs/lz-definitions': ^3.0.12
-      '@layerzerolabs/lz-solana-sdk-v2': ^3.0.0
+      '@layerzerolabs/devtools': ~0.4.5
+      '@layerzerolabs/devtools-solana': ~1.0.6
+      '@layerzerolabs/io-devtools': ~0.1.15
+      '@layerzerolabs/lz-definitions': ^3.0.59
+      '@layerzerolabs/lz-solana-sdk-v2': ^3.0.59
       '@layerzerolabs/lz-v2-utilities': ^3.0.12
-      '@layerzerolabs/oft-v2-solana-sdk': ^3.0.0
-      '@layerzerolabs/protocol-devtools': ^1.1.0
-      '@layerzerolabs/protocol-devtools-solana': ~4.0.0
-      '@layerzerolabs/ua-devtools': ^3.0.0
-      '@solana/web3.js': ^1.95.3
+      '@layerzerolabs/oft-v2-solana-sdk': ^3.0.59
+      '@layerzerolabs/protocol-devtools': ^1.1.4
+      '@layerzerolabs/protocol-devtools-solana': ~4.0.7
+      '@layerzerolabs/ua-devtools': ^3.0.4
+      '@solana/web3.js': ^1.95.8
       fp-ts: ^2.16.2
       zod: ^3.22.4
 
-  '@layerzerolabs/ua-devtools@3.0.0':
-    resolution: {integrity: sha512-eyuv3eS+o2f9BHpqVczrE+A2OhSW5m4fH1y4hojknJhPranXPmXCWrmkqao4Pt/Tdszns90LQwT2CZb96t4pmA==}
+  '@layerzerolabs/ua-devtools@3.0.4':
+    resolution: {integrity: sha512-2eAFxUhfim8B0AooY/ndKRqVQL/QcsZsmCFjruvwJfxbvZsWRoRkJSvjNoCh7QszaF3rz7xV7WG6NToKWg3g/w==}
     peerDependencies:
-      '@layerzerolabs/devtools': ~0.4.0
-      '@layerzerolabs/io-devtools': ~0.1.12
-      '@layerzerolabs/lz-definitions': ^3.0.12
+      '@layerzerolabs/devtools': ~0.4.5
+      '@layerzerolabs/io-devtools': ~0.1.15
+      '@layerzerolabs/lz-definitions': ^3.0.59
       '@layerzerolabs/lz-v2-utilities': ^3.0.12
-      '@layerzerolabs/protocol-devtools': ~1.1.0
+      '@layerzerolabs/protocol-devtools': ~1.1.4
       zod: ^3.22.4
 
   '@ledgerhq/devices@8.4.4':
@@ -1247,6 +1271,9 @@ packages:
   '@noble/curves@1.7.0':
     resolution: {integrity: sha512-UTMhXK9SeDhFJVrHeUJ5uZlI6ajXg10O6Ddocf9S6GjbSBVZsJo88HzKwXznNfGpMTRDyJkqMjNDPYgf0qFWnw==}
     engines: {node: ^14.21.3 || >=16}
+
+  '@noble/ed25519@1.7.3':
+    resolution: {integrity: sha512-iR8GBkDt0Q3GyaVcIu7mSsVIqnFbkbRzGLWlvhwunacoLwt4J3swfKhfaM6rN6WY+TBGoYT1GtT1mIh2/jGbRQ==}
 
   '@noble/hashes@1.2.0':
     resolution: {integrity: sha512-FZfhjEDbT5GRswV3C6uvLPHMiVD6lQBmpoX5+eSiPaMTXte/IKqI5dykDxzZB/WBeK/CDuQRBWarPdi3FNY2zQ==}
@@ -1629,8 +1656,8 @@ packages:
     peerDependencies:
       '@solana/web3.js': ^1.95.3
 
-  '@solana/web3.js@1.95.5':
-    resolution: {integrity: sha512-hU9cBrbg1z6gEjLH9vwIckGBVB78Ijm0iZFNk4ocm5OD82piPwuk3MeQ1rfiKD9YQtr95krrcaopb49EmQJlRg==}
+  '@solana/web3.js@1.95.8':
+    resolution: {integrity: sha512-sBHzNh7dHMrmNS5xPD1d0Xa2QffW/RXaxu/OysRXBfwTp+LYqGGmMtCYYwrHPrN5rjAmJCsQRNAwv4FM0t3B6g==}
 
   '@solidity-parser/parser@0.18.0':
     resolution: {integrity: sha512-yfORGUIPgLck41qyN7nbwJRAx17/jAIXCTanHOJZhB6PJ1iAk/84b/xlsVKFSyNyLXIj0dhppoE0+CRws7wlzA==}
@@ -2002,16 +2029,22 @@ packages:
     resolution: {integrity: sha512-E+iruNOY8VV9s4JEbe1aNEm6MiszPRr/UfcHMz0TQh1BXSxHK+ASV1R6W4HpjBhSeS+54PIsAMCBmwD06LLsqQ==}
     hasBin: true
 
+  abort-controller@3.0.0:
+    resolution: {integrity: sha512-h8lQ8tacZYnR3vNQTgibj+tODHI5/+l06Au2Pcriv/Gmet0eaj4TwWH41sO9wnHDiQsEj19q0drzdWdeAHtweg==}
+    engines: {node: '>=6.5'}
+
   abortcontroller-polyfill@1.7.6:
     resolution: {integrity: sha512-Zypm+LjYdWAzvuypZvDN0smUJrhOurcuBWhhMRBExqVLRvdjp3Z9mASxKyq19K+meZMshwjjy5S0lkm388zE4Q==}
 
   abstract-leveldown@6.2.3:
     resolution: {integrity: sha512-BsLm5vFMRUrrLeCcRc+G0t2qOaTzpoJQLOubq2XM72eNpjF5UdU5o/5NvlNhx95XHcAvcl8OMXr4mlg/fRgUXQ==}
     engines: {node: '>=6'}
+    deprecated: Superseded by abstract-level (https://github.com/Level/community#faq)
 
   abstract-leveldown@6.3.0:
     resolution: {integrity: sha512-TU5nlYgta8YrBMNpc9FwQzRbiXsj49gsALsXadbGHt9CROPzX5fB0rWDR5mtdpOOKa5XqRFpbj1QroPAoPzVjQ==}
     engines: {node: '>=6'}
+    deprecated: Superseded by abstract-level (https://github.com/Level/community#faq)
 
   accepts@1.3.8:
     resolution: {integrity: sha512-PYAthTa2m2VKxuvSD3DPC/Gy+U+sOA1LAuT8mkmRuvw+NACSaeXEQ+NHcVF7rONl6qcaxV3Uuemwawk+7+SJLw==}
@@ -2188,6 +2221,10 @@ packages:
 
   asynckit@0.4.0:
     resolution: {integrity: sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==}
+
+  atomic-sleep@1.0.0:
+    resolution: {integrity: sha512-kNOjDqAh7px0XWNI+4QbzoiR/nTkHAWNud2uvnJquD1/x5a7EQZMJT0AczqK0Qn67oY/TTQ1LbUKajZpp3I9tQ==}
+    engines: {node: '>=8.0.0'}
 
   auto-bind@4.0.0:
     resolution: {integrity: sha512-Hdw8qdNiqdJ8LqT0iK0sVzkFbzg6fhnQqqfWhBDxcHZvU75+B+ayzTy8x+k5Ix0Y92XOhOUlx74ps+bA6BeYMQ==}
@@ -2715,6 +2752,9 @@ packages:
   dataloader@2.2.2:
     resolution: {integrity: sha512-8YnDaaf7N3k/q5HnTJVuzSyLETjoZjVmHc4AeKAzOvKHEFQKcn64OKBfzHYtE9zGjctNM7V9I0MfnUVLpi7M5g==}
 
+  dayjs@1.11.13:
+    resolution: {integrity: sha512-oaMBel6gjolK862uaPQOVTA7q3TZhuSvuMQAAglQDOWYO9A91IrAOUJEyKVlqJlHE0vq5p5UXxzdPfMH/x6xNg==}
+
   debug@2.6.9:
     resolution: {integrity: sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA==}
     peerDependencies:
@@ -2790,6 +2830,7 @@ packages:
   deferred-leveldown@5.3.0:
     resolution: {integrity: sha512-a59VOT+oDy7vtAbLRCZwWgxu2BaCfd5Hk7wxJd48ei7I+nsg8Orlb9CLG0PMZienk9BSUKgeAqkO2+Lw+1+Ukw==}
     engines: {node: '>=6'}
+    deprecated: Superseded by abstract-level (https://github.com/Level/community#faq)
 
   define-data-property@1.1.4:
     resolution: {integrity: sha512-rBMvIzlpA8v6E+SJZoo++HAYqsLrkg7MSfIinMPFhmkorw7X+dOXVJQs+QT69zGkzMyfDnIMN2Wid1+NbL3T+A==}
@@ -2911,6 +2952,7 @@ packages:
   encoding-down@6.3.0:
     resolution: {integrity: sha512-QKrV0iKR6MZVJV08QY0wp1e7vF6QbhnbQhb07bwpEyuz4uZiZgPlEGdkCROuFkUwdxlFaiPIhjyarH1ee/3vhw==}
     engines: {node: '>=6'}
+    deprecated: Superseded by abstract-level (https://github.com/Level/community#faq)
 
   end-of-stream@1.4.4:
     resolution: {integrity: sha512-+uw1inIHVPQoaVuHzRyXd21icM+cnt4CzD5rW+NC1wjOUSTOs+Te7FOv7AhN7vS9x/oIyhLP5PR1H+phQAHu5Q==}
@@ -3211,6 +3253,10 @@ packages:
   event-emitter@0.3.5:
     resolution: {integrity: sha512-D9rRn9y7kLPnJ+hMq7S/nhvoKwwvVJahBi2BPmx3bvbsEdK3W9ii8cBSGjP+72/LnM4n6fo3+dkCX5FeTQruXA==}
 
+  event-target-shim@5.0.1:
+    resolution: {integrity: sha512-i/2XbnSz/uxRCU6+NdVJgKWDTM427+MqYbkQzD321DuCQJUqOuJKIA0IM2+W2xtYHdKOmZ4dR6fExsd4SXL+WQ==}
+    engines: {node: '>=6'}
+
   eventemitter3@4.0.4:
     resolution: {integrity: sha512-rlaVLnVxtxvoyLsQQFBx53YmXHDxRIzzTLbdfxqi4yocpSjAxXwkU0cScM5JgSKMqEhrZpnvQ2D9gjylR0AimQ==}
 
@@ -3275,6 +3321,10 @@ packages:
 
   fast-levenshtein@2.0.6:
     resolution: {integrity: sha512-DCXu6Ifhqcks7TZKY3Hxp3y6qphY5SJZmrWMDrKcERSOXWQdMhU9Ig/PYrzyw/ul9jOIyh0N4M0tbC5hodg8dw==}
+
+  fast-redact@3.5.0:
+    resolution: {integrity: sha512-dwsoQlS7h9hMeYUq1W++23NDcBLV4KqONnITDV9DjfS3q1SgDGVrBdvvTLUotWtPSD7asWDV9/CmsZPy8Hf70A==}
+    engines: {node: '>=6'}
 
   fast-stable-stringify@1.0.0:
     resolution: {integrity: sha512-wpYMUmFu5f00Sm0cj2pfivpmawLZ0NKdviQ4w9zJeR8JVtOpOxHmLaJuj0vxvGqMJQWyP/COUkF75/57OKyRag==}
@@ -4259,14 +4309,17 @@ packages:
   level-codec@9.0.2:
     resolution: {integrity: sha512-UyIwNb1lJBChJnGfjmO0OR+ezh2iVu1Kas3nvBS/BzGnx79dv6g7unpKIDNPMhfdTEGoc7mC8uAu51XEtX+FHQ==}
     engines: {node: '>=6'}
+    deprecated: Superseded by level-transcoder (https://github.com/Level/community#faq)
 
   level-concat-iterator@2.0.1:
     resolution: {integrity: sha512-OTKKOqeav2QWcERMJR7IS9CUo1sHnke2C0gkSmcR7QuEtFNLLzHQAvnMw8ykvEcv0Qtkg0p7FOwP1v9e5Smdcw==}
     engines: {node: '>=6'}
+    deprecated: Superseded by abstract-level (https://github.com/Level/community#faq)
 
   level-errors@2.0.1:
     resolution: {integrity: sha512-UVprBJXite4gPS+3VznfgDSU8PTRuVX0NXwoWW50KLxd2yw4Y1t2JUR5In1itQnudZqRMT9DlAM3Q//9NCjCFw==}
     engines: {node: '>=6'}
+    deprecated: Superseded by abstract-level (https://github.com/Level/community#faq)
 
   level-iterator-stream@4.0.2:
     resolution: {integrity: sha512-ZSthfEqzGSOMWoUGhTXdX9jv26d32XJuHz/5YnuHZzH6wldfWMOVwI9TBtKcya4BKTyTt3XVA0A3cF3q5CY30Q==}
@@ -4275,10 +4328,12 @@ packages:
   level-mem@5.0.1:
     resolution: {integrity: sha512-qd+qUJHXsGSFoHTziptAKXoLX87QjR7v2KMbqncDXPxQuCdsQlzmyX+gwrEHhlzn08vkf8TyipYyMmiC6Gobzg==}
     engines: {node: '>=6'}
+    deprecated: Superseded by memory-level (https://github.com/Level/community#faq)
 
   level-packager@5.1.1:
     resolution: {integrity: sha512-HMwMaQPlTC1IlcwT3+swhqf/NUO+ZhXVz6TY1zZIIZlIR0YSn8GtAAWmIvKjNY16ZkEg/JcpAuQskxsXqC0yOQ==}
     engines: {node: '>=6'}
+    deprecated: Superseded by abstract-level (https://github.com/Level/community#faq)
 
   level-supports@1.0.1:
     resolution: {integrity: sha512-rXM7GYnW8gsl1vedTJIbzOrRv85c/2uCMpiiCzO2fndd06U/kUXEEU9evYn4zFggBOg36IsBW8LzqIpETwwQzg==}
@@ -4291,6 +4346,7 @@ packages:
   levelup@4.4.0:
     resolution: {integrity: sha512-94++VFO3qN95cM/d6eBXvd894oJE0w3cInq9USsyQzzoJxmiYzPAocNcuGCPGGjoXqDVJcr3C1jzt1TSjyaiLQ==}
     engines: {node: '>=6'}
+    deprecated: Superseded by abstract-level (https://github.com/Level/community#faq)
 
   leven@3.1.0:
     resolution: {integrity: sha512-qsda+H8jTaUaN/x5vzW2rzc+8Rw4TAQ/4KjB46IwK5VH+IlVeeeje/EoZRpiXvIqjFgK84QffqPztGI3VBLG1A==}
@@ -4408,6 +4464,7 @@ packages:
   memdown@5.1.0:
     resolution: {integrity: sha512-B3J+UizMRAlEArDjWHTMmadet+UKwHd3UjMgGBkZcKAxAYVPS9o0Yeiha4qvz7iGiL2Sb3igUft6p7nbFWctpw==}
     engines: {node: '>=6'}
+    deprecated: Superseded by memory-level (https://github.com/Level/community#faq)
 
   memoizee@0.4.17:
     resolution: {integrity: sha512-DGqD7Hjpi/1or4F/aYAspXKNm5Yili0QDAFAY4QYvpqpgiY6+1jOfqpmByzjxbWd/T9mChbCArXAbDAsTm5oXA==}
@@ -4685,6 +4742,10 @@ packages:
   oboe@2.1.5:
     resolution: {integrity: sha512-zRFWiF+FoicxEs3jNI/WYUrVEgA7DeET/InK0XQuudGHRg8iIob3cNPrJTKaz4004uaA9Pbe+Dwa8iluhjLZWA==}
 
+  on-exit-leak-free@2.1.2:
+    resolution: {integrity: sha512-0eJJY6hXLGf1udHwfNftBqH+g73EU4B504nZeKpz1sYRKafAghwxEJunB2O7rDZkL4PGfsMVnTXZ2EjibbqcsA==}
+    engines: {node: '>=14.0.0'}
+
   on-finished@2.4.1:
     resolution: {integrity: sha512-oVlzkg3ENAhCk2zdv7IJwd/QUD4z2RxRwpkcGY8psCVcCYZNq4wYnVWALHM+brtuJjePWiYF/ClmuDr8Ch5+kg==}
     engines: {node: '>= 0.8'}
@@ -4832,6 +4893,9 @@ packages:
   performance-now@2.1.0:
     resolution: {integrity: sha512-7EAHlyLHI56VEIdK57uwHdHKIaAGbnXPiw0yWbarQZOKaKpvUIgW0jWRVLiatnM+XXlSwsanIBH/hzGMJulMow==}
 
+  picocolors@1.0.0:
+    resolution: {integrity: sha512-1fygroTLlHu66zi26VoTDv8yRgm0Fccecssto+MhsZ0D/DGW2sm8E8AjW7NU5VVTRt5GxbeZ5qBuJr+HyLYkjQ==}
+
   picocolors@1.1.1:
     resolution: {integrity: sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA==}
 
@@ -4854,6 +4918,16 @@ packages:
   pinkie@2.0.4:
     resolution: {integrity: sha512-MnUuEycAemtSaeFSjXKW/aroV7akBbY+Sv+RkyqFjgAe73F+MR0TBWKBRDkmfWq/HiFmdavfZ1G7h4SPZXaCSg==}
     engines: {node: '>=0.10.0'}
+
+  pino-abstract-transport@1.2.0:
+    resolution: {integrity: sha512-Guhh8EZfPCfH+PMXAb6rKOjGQEoy0xlAIn+irODG5kgfYV+BQ0rGYYWTIel3P5mmyXqkYkPmdIkywsn6QKUR1Q==}
+
+  pino-std-serializers@6.2.2:
+    resolution: {integrity: sha512-cHjPPsE+vhj/tnhCy/wiMh3M3z3h/j15zHQX+S9GkTBgqJuTuJzYJ4gUyACLhDaJ7kk9ba9iRDmbH2tJU03OiA==}
+
+  pino@8.21.0:
+    resolution: {integrity: sha512-ip4qdzjkAyDDZklUaZkcRFb2iA118H9SgRh8yzTkSQK8HilsOJF7rSY8HoW5+I0M46AZgX/pxbprf2vvzQCE0Q==}
+    hasBin: true
 
   pirates@4.0.6:
     resolution: {integrity: sha512-saLsH7WeYYPiD25LDuLRRY/i+6HaPYr6G1OUlN39otzkSTxKnubR9RTxS3/Kk50s1g2JTgFwWQDQyplC5/SHZg==}
@@ -4906,6 +4980,9 @@ packages:
   pretty-format@29.7.0:
     resolution: {integrity: sha512-Pdlw/oPxN+aXdmM9R00JVC9WVFoCLTKJvDVLgmJ+qAffBMxsV85l/Lu7sNx4zSzPyoL2euImuEwHhOXdEgNFZQ==}
     engines: {node: ^14.15.0 || ^16.10.0 || >=18.0.0}
+
+  process-warning@3.0.0:
+    resolution: {integrity: sha512-mqn0kFRl0EoqhnL0GQ0veqFHyIN1yig9RHh/InzORTUiZHFRAur+aMtRkELNwGs9aNwKS6tg/An4NYBPGwvtzQ==}
 
   process@0.11.10:
     resolution: {integrity: sha512-cdGef/drWFoydD1JsMzuFf8100nZl+GT+yacc2bEced5f9Rjk4z+WtFUTBu9PhOi9j/jfmBPu0mMEY4wIdAF8A==}
@@ -4974,6 +5051,9 @@ packages:
   queue-microtask@1.2.3:
     resolution: {integrity: sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==}
 
+  quick-format-unescaped@4.0.4:
+    resolution: {integrity: sha512-tYC1Q1hgyRuHgloV/YXs2w15unPVh8qfu/qCTfhTYamaw7fyhumKa2yGpdSo87vY32rIclj+4fWYQXUMs9EHvg==}
+
   quick-lru@5.1.1:
     resolution: {integrity: sha512-WuyALRjWPDGtt/wzJiadO5AXY+8hZ80hVpe6MyivgraREW751X3SbhRvG3eLKOYN+8VEvqLcf3wdnt44Z4S4SA==}
     engines: {node: '>=10'}
@@ -5024,6 +5104,10 @@ packages:
     resolution: {integrity: sha512-9u/sniCrY3D5WdsERHzHE4G2YCXqoG5FTHUiCC4SIbr6XcLZBY05ya9EKjYek9O5xOAwjGq+1JdGBAS7Q9ScoA==}
     engines: {node: '>= 6'}
 
+  readable-stream@4.7.0:
+    resolution: {integrity: sha512-oIGGmcpTLwPga8Bn6/Z75SVaH1z5dUut2ibSyAMVhmUggWpmDn2dapB0n7f8nwaSiRtepAsfJyfXIO5DCVAODg==}
+    engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
+
   readdirp@3.6.0:
     resolution: {integrity: sha512-hOS089on8RduqdbhvQ5Z37A0ESjsqz6qnRcffsMU3495FuTdqSm+7bhJ29JvIOsBDEEnan5DPu9t3To9VRlMzA==}
     engines: {node: '>=8.10.0'}
@@ -5031,6 +5115,10 @@ packages:
   readdirp@4.0.2:
     resolution: {integrity: sha512-yDMz9g+VaZkqBYS/ozoBJwaBhTbZo3UNYQHNRw1D3UFQB8oHB4uS/tAODO+ZLjGWmUbKnIlOWO+aaIiAxrUWHA==}
     engines: {node: '>= 14.16.0'}
+
+  real-require@0.2.0:
+    resolution: {integrity: sha512-57frrGM/OCTLqLOAh0mhVA9VBMHd+9U7Zb2THMGdBUoZVOtGbJzjxsYGDJ3A9AYYCP4hn6y1TVbaOfzWtm5GFg==}
+    engines: {node: '>= 12.13.0'}
 
   reduce-flatten@2.0.0:
     resolution: {integrity: sha512-EJ4UNY/U1t2P/2k6oqotuX2Cc3T6nxJwsM0N0asT7dhrtH1ltUxDn4NalSYmPE2rCkVpcf/X6R0wDwcFpzhd4w==}
@@ -5146,8 +5234,8 @@ packages:
   run-parallel@1.2.0:
     resolution: {integrity: sha512-5l4VyZR86LZ/lDxZTR6jqL8AFE2S0IFLMP26AbjsLVADxHdhB/c0GUsH+y39UfCi3dzz8OlQuPmnaJOMoDHQBA==}
 
-  rustbn.js@0.3.0:
-    resolution: {integrity: sha512-RXLW0TSDBFlujBgq/ZdWa6ADGKiEFZgSqRdCcSXy8XiPqLPApKwaJjf14ImspysQm2mI8hA3EBWN+IOQReqwtA==}
+  rustbn.js@0.2.0:
+    resolution: {integrity: sha512-4VlvkRUuCJvr2J6Y0ImW7NvTCriMi7ErOAqWk1y69vAdoNIzCF3yPmgeNzx+RQTLEDFq5sHfscn1MwHxP9hNfA==}
 
   rxjs@7.8.1:
     resolution: {integrity: sha512-AA3TVj+0A2iuIoQkWEK/tqFjBq2j+6PO6Y0zJcvzLAFhEFIO3HL0vls9hWLncZbAAbK0mar7oZ4V079I/qPMxg==}
@@ -5309,6 +5397,9 @@ packages:
   solidity-bytes-utils@0.8.2:
     resolution: {integrity: sha512-cqXPYAV2auhpdKSTPuqji0CwpSceZDu95CzqSM/9tDJ2MoMaMsdHTpOIWtVw31BIqqGPNmIChCswzbw0tHaMTw==}
 
+  sonic-boom@3.8.1:
+    resolution: {integrity: sha512-y4Z8LCDBuum+PBP3lSV7RHrXscqksve/bi0as7mhwVnBW+/wUqKT/2Kb7um8yqcFy0duYbbPxzt89Zy2nOCaxg==}
+
   sort-object-keys@1.1.3:
     resolution: {integrity: sha512-855pvK+VkU7PaKYPc+Jjnmt4EzejQHyhhF33q31qG8x7maDzkeFhAAThdCYay11CISO+qAMwjOBP+fPZe0IPyg==}
 
@@ -5337,6 +5428,10 @@ packages:
 
   spdx-license-ids@3.0.20:
     resolution: {integrity: sha512-jg25NiDV/1fLtSgEgyvVyDunvaNHbuwF9lfNV17gSmPFAlYzdfNBlLtLzXTevwkPj7DhGbmN9VnmJIgLnhvaBw==}
+
+  split2@4.2.0:
+    resolution: {integrity: sha512-UcjcJOWknrNkF6PLX83qcHM6KHgVKNkV62Y8a5uYDVv9ydGQVwAHMKqHdJje1VTWpljG0WYpCDhrCdAOYH4TWg==}
+    engines: {node: '>= 10.x'}
 
   spok@1.5.5:
     resolution: {integrity: sha512-IrJIXY54sCNFASyHPOY+jEirkiJ26JDqsGiI0Dvhwcnkl0PEWi1PSsrkYql0rzDw8LFVTcA7rdUCAJdE2HE+2Q==}
@@ -5505,6 +5600,9 @@ packages:
 
   text-table@0.2.0:
     resolution: {integrity: sha512-N+8UisAXDGk8PFXP4HAzVR9nbfmVJ3zYLAWiTIoqC5v5isinhr+r5uaO8+7r3BMfuNIufIsA7RdpVgacC2cSpw==}
+
+  thread-stream@2.7.0:
+    resolution: {integrity: sha512-qQiRWsU/wvNolI6tbbCKd9iKaTnCXsTwVxhhKM6nctPdujTyztjlbUkUTUymidWcMnZ5pWR0ej4a0tjsW021vw==}
 
   through@2.3.8:
     resolution: {integrity: sha512-w89qg7PI8wAdvX60bMDP+bFoD5Dvhm9oLheFp5O4a2QF0cSBGsBX4qZmadPMvVqlLJBBci+WqGGOAPvcDeNSVg==}
@@ -6330,8 +6428,8 @@ snapshots:
 
   '@coral-xyz/anchor@0.26.0(bufferutil@4.0.8)(utf-8-validate@5.0.10)':
     dependencies:
-      '@coral-xyz/borsh': 0.26.0(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@coral-xyz/borsh': 0.26.0(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       base64-js: 1.5.1
       bn.js: 5.2.1
       bs58: 4.0.1
@@ -6352,9 +6450,9 @@ snapshots:
 
   '@coral-xyz/anchor@0.29.0(bufferutil@4.0.8)(utf-8-validate@5.0.10)':
     dependencies:
-      '@coral-xyz/borsh': 0.29.0(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))
+      '@coral-xyz/borsh': 0.29.0(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))
       '@noble/hashes': 1.6.1
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       bn.js: 5.2.1
       bs58: 4.0.1
       buffer-layout: 1.2.2
@@ -6371,15 +6469,15 @@ snapshots:
       - encoding
       - utf-8-validate
 
-  '@coral-xyz/borsh@0.26.0(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))':
+  '@coral-xyz/borsh@0.26.0(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))':
     dependencies:
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       bn.js: 5.2.1
       buffer-layout: 1.2.2
 
-  '@coral-xyz/borsh@0.29.0(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))':
+  '@coral-xyz/borsh@0.29.0(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))':
     dependencies:
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       bn.js: 5.2.1
       buffer-layout: 1.2.2
 
@@ -6589,7 +6687,7 @@ snapshots:
       functional-red-black-tree: 1.0.1
       mcl-wasm: 0.7.9
       merkle-patricia-tree: 4.2.4
-      rustbn.js: 0.3.0
+      rustbn.js: 0.2.0
     transitivePeerDependencies:
       - supports-color
 
@@ -7153,17 +7251,17 @@ snapshots:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.0
 
-  '@layerzerolabs/devtools-evm-hardhat@2.0.1(ytvpk6qkmiwpcsz4e4s265cynq)':
+  '@layerzerolabs/devtools-evm-hardhat@2.0.6(p6k77pzecpgh6zc44vde4vytbi)':
     dependencies:
       '@ethersproject/abi': 5.7.0
       '@ethersproject/abstract-signer': 5.7.0
       '@ethersproject/contracts': 5.7.0
       '@ethersproject/providers': 5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10)
-      '@layerzerolabs/devtools': 0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
-      '@layerzerolabs/devtools-evm': 1.0.0(yndawg2n4w2vrqh66jxor477oe)
-      '@layerzerolabs/export-deployments': 0.0.14
-      '@layerzerolabs/io-devtools': 0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
-      '@layerzerolabs/lz-definitions': 3.0.18
+      '@layerzerolabs/devtools': 0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
+      '@layerzerolabs/devtools-evm': 1.0.4(hx3mujmloeqimi7ksqo5wpxpvy)
+      '@layerzerolabs/export-deployments': 0.0.15
+      '@layerzerolabs/io-devtools': 0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
+      '@layerzerolabs/lz-definitions': 3.0.68
       '@nomiclabs/hardhat-ethers': 2.2.3(ethers@5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10))(hardhat@2.22.16(bufferutil@4.0.8)(ts-node@10.9.2(@swc/core@1.9.3(@swc/helpers@0.5.15))(@types/node@18.18.14)(typescript@5.7.2))(typescript@5.7.2)(utf-8-validate@5.0.10))
       '@safe-global/protocol-kit': 1.3.0(bufferutil@4.0.8)(ethers@5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10))(utf-8-validate@5.0.10)
       fp-ts: 2.16.9
@@ -7179,7 +7277,7 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@layerzerolabs/devtools-evm@1.0.0(yndawg2n4w2vrqh66jxor477oe)':
+  '@layerzerolabs/devtools-evm@1.0.4(hx3mujmloeqimi7ksqo5wpxpvy)':
     dependencies:
       '@ethersproject/abi': 5.7.0
       '@ethersproject/abstract-provider': 5.7.0
@@ -7189,9 +7287,9 @@ snapshots:
       '@ethersproject/constants': 5.7.0
       '@ethersproject/contracts': 5.7.0
       '@ethersproject/providers': 5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10)
-      '@layerzerolabs/devtools': 0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
-      '@layerzerolabs/io-devtools': 0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
-      '@layerzerolabs/lz-definitions': 3.0.18
+      '@layerzerolabs/devtools': 0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
+      '@layerzerolabs/io-devtools': 0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
+      '@layerzerolabs/lz-definitions': 3.0.68
       '@safe-global/api-kit': 1.3.1
       '@safe-global/protocol-kit': 1.3.0(bufferutil@4.0.8)(ethers@5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10))(utf-8-validate@5.0.10)
       ethers: 5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10)
@@ -7204,14 +7302,14 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  ? '@layerzerolabs/devtools-solana@1.0.1(@layerzerolabs/devtools@0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bn.js@5.2.1)(bufferutil@4.0.8)(fp-ts@2.16.9)(utf-8-validate@5.0.10)(zod@3.23.8)'
+  ? '@layerzerolabs/devtools-solana@1.0.6(@layerzerolabs/devtools@0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bn.js@5.2.1)(bufferutil@4.0.8)(fp-ts@2.16.9)(utf-8-validate@5.0.10)(zod@3.23.8)'
   : dependencies:
-      '@layerzerolabs/devtools': 0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
-      '@layerzerolabs/io-devtools': 0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
-      '@layerzerolabs/lz-definitions': 3.0.18
+      '@layerzerolabs/devtools': 0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
+      '@layerzerolabs/io-devtools': 0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
+      '@layerzerolabs/lz-definitions': 3.0.68
       '@safe-global/api-kit': 1.3.1
       '@safe-global/protocol-kit': 1.3.0(bufferutil@4.0.8)(ethers@5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10))(utf-8-validate@5.0.10)
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       bn.js: 5.2.1
       ethers: 5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       fp-ts: 2.16.9
@@ -7223,11 +7321,11 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@layerzerolabs/devtools@0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)':
+  '@layerzerolabs/devtools@0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)':
     dependencies:
       '@ethersproject/bytes': 5.7.0
-      '@layerzerolabs/io-devtools': 0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
-      '@layerzerolabs/lz-definitions': 3.0.18
+      '@layerzerolabs/io-devtools': 0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
+      '@layerzerolabs/lz-definitions': 3.0.68
       bs58: 6.0.0
       exponential-backoff: 3.1.1
       js-yaml: 4.1.0
@@ -7261,11 +7359,18 @@ snapshots:
       - bufferutil
       - utf-8-validate
 
-  '@layerzerolabs/export-deployments@0.0.14':
+  '@layerzerolabs/evm-sdks-core@3.0.68(bufferutil@4.0.8)(utf-8-validate@5.0.10)':
+    dependencies:
+      ethers: 5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+    transitivePeerDependencies:
+      - bufferutil
+      - utf-8-validate
+
+  '@layerzerolabs/export-deployments@0.0.15':
     dependencies:
       typescript: 5.7.2
 
-  '@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)':
+  '@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)':
     dependencies:
       chalk: 4.1.2
       logform: 2.7.0
@@ -7282,11 +7387,13 @@ snapshots:
 
   '@layerzerolabs/lz-core@3.0.18': {}
 
+  '@layerzerolabs/lz-core@3.0.68': {}
+
   '@layerzerolabs/lz-corekit-solana@3.0.18(bufferutil@4.0.8)(typescript@5.7.2)(utf-8-validate@5.0.10)':
     dependencies:
       '@layerzerolabs/lz-core': 3.0.18
       '@layerzerolabs/lz-utilities': 3.0.18(bufferutil@4.0.8)(typescript@5.7.2)(utf-8-validate@5.0.10)
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       bip39: 3.1.0
       ed25519-hd-key: 1.3.0
       tiny-invariant: 1.3.3
@@ -7297,7 +7404,29 @@ snapshots:
       - typescript
       - utf-8-validate
 
-  '@layerzerolabs/lz-definitions@3.0.18':
+  '@layerzerolabs/lz-corekit-solana@3.0.68(bufferutil@4.0.8)(typescript@5.7.2)(utf-8-validate@5.0.10)':
+    dependencies:
+      '@layerzerolabs/lz-core': 3.0.68
+      '@layerzerolabs/lz-utilities': 3.0.68(bufferutil@4.0.8)(typescript@5.7.2)(utf-8-validate@5.0.10)
+      '@metaplex-foundation/umi': 0.9.2
+      '@metaplex-foundation/umi-eddsa-web3js': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))
+      '@metaplex-foundation/umi-program-repository': 0.9.2(@metaplex-foundation/umi@0.9.2)
+      '@metaplex-foundation/umi-rpc-web3js': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))
+      '@metaplex-foundation/umi-transaction-factory-web3js': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))
+      '@noble/hashes': 1.6.1
+      '@noble/secp256k1': 1.7.1
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      bip39: 3.1.0
+      ed25519-hd-key: 1.3.0
+      tiny-invariant: 1.3.3
+    transitivePeerDependencies:
+      - bufferutil
+      - debug
+      - encoding
+      - typescript
+      - utf-8-validate
+
+  '@layerzerolabs/lz-definitions@3.0.68':
     dependencies:
       tiny-invariant: 1.3.3
 
@@ -7340,9 +7469,9 @@ snapshots:
       - bufferutil
       - utf-8-validate
 
-  '@layerzerolabs/lz-evm-sdk-v2@3.0.18(bufferutil@4.0.8)(utf-8-validate@5.0.10)':
+  '@layerzerolabs/lz-evm-sdk-v2@3.0.68(bufferutil@4.0.8)(utf-8-validate@5.0.10)':
     dependencies:
-      '@layerzerolabs/evm-sdks-core': 3.0.18(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@layerzerolabs/evm-sdks-core': 3.0.68(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       ethers: 5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10)
     transitivePeerDependencies:
       - bufferutil
@@ -7354,6 +7483,25 @@ snapshots:
       '@openzeppelin/contracts-upgradeable': 5.1.0(@openzeppelin/contracts@5.1.0)
       hardhat-deploy: 0.12.4(bufferutil@4.0.8)(utf-8-validate@5.0.10)
 
+  '@layerzerolabs/lz-foundation@3.0.68(bufferutil@4.0.8)(typescript@5.7.2)(utf-8-validate@5.0.10)':
+    dependencies:
+      '@layerzerolabs/lz-definitions': 3.0.68
+      '@layerzerolabs/lz-utilities': 3.0.68(bufferutil@4.0.8)(typescript@5.7.2)(utf-8-validate@5.0.10)
+      '@noble/ed25519': 1.7.3
+      '@noble/hashes': 1.6.1
+      '@noble/secp256k1': 1.7.1
+      '@scure/base': 1.2.1
+      bech32: 2.0.0
+      memoizee: 0.4.17
+    transitivePeerDependencies:
+      - bufferutil
+      - debug
+      - encoding
+      - typescript
+      - utf-8-validate
+
+  '@layerzerolabs/lz-serdes@3.0.68': {}
+
   '@layerzerolabs/lz-solana-sdk-v2@3.0.0(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)':
     dependencies:
       '@ethersproject/abi': 5.7.0
@@ -7364,16 +7512,45 @@ snapshots:
       '@ethersproject/sha2': 5.7.0
       '@ethersproject/solidity': 5.7.0
       '@layerzerolabs/lz-corekit-solana': 3.0.18(bufferutil@4.0.8)(typescript@5.7.2)(utf-8-validate@5.0.10)
-      '@layerzerolabs/lz-definitions': 3.0.18
+      '@layerzerolabs/lz-definitions': 3.0.68
       '@layerzerolabs/lz-v2-utilities': 3.0.18
       '@metaplex-foundation/beet': 0.7.2
       '@metaplex-foundation/beet-solana': 0.4.1(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       '@metaplex-foundation/solita': 0.20.1(bufferutil@4.0.8)(utf-8-validate@5.0.10)
-      '@solana/spl-token': 0.3.11(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/spl-token': 0.3.11(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       bn.js: 5.2.1
       bs58: 5.0.0
       ethereumjs-util: 7.1.5
+      tiny-invariant: 1.3.3
+    transitivePeerDependencies:
+      - bufferutil
+      - debug
+      - encoding
+      - fastestsmallesttextencoderdecoder
+      - supports-color
+      - typescript
+      - utf-8-validate
+
+  '@layerzerolabs/lz-solana-sdk-v2@3.0.68(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)':
+    dependencies:
+      '@layerzerolabs/lz-corekit-solana': 3.0.68(bufferutil@4.0.8)(typescript@5.7.2)(utf-8-validate@5.0.10)
+      '@layerzerolabs/lz-definitions': 3.0.68
+      '@layerzerolabs/lz-foundation': 3.0.68(bufferutil@4.0.8)(typescript@5.7.2)(utf-8-validate@5.0.10)
+      '@layerzerolabs/lz-serdes': 3.0.68
+      '@layerzerolabs/lz-utilities': 3.0.68(bufferutil@4.0.8)(typescript@5.7.2)(utf-8-validate@5.0.10)
+      '@layerzerolabs/lz-v2-utilities': 3.0.68
+      '@metaplex-foundation/beet': 0.7.2
+      '@metaplex-foundation/beet-solana': 0.4.1(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@metaplex-foundation/umi': 0.9.2
+      '@metaplex-foundation/umi-eddsa-web3js': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))
+      '@metaplex-foundation/umi-program-repository': 0.9.2(@metaplex-foundation/umi@0.9.2)
+      '@metaplex-foundation/umi-rpc-web3js': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))
+      '@metaplex-foundation/umi-web3js-adapters': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))
+      '@solana/spl-token': 0.3.11(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      bn.js: 5.2.1
+      bs58: 5.0.0
       tiny-invariant: 1.3.3
     transitivePeerDependencies:
       - bufferutil
@@ -7388,8 +7565,8 @@ snapshots:
     dependencies:
       '@ethersproject/bytes': 5.7.0
       '@initia/initia.js': 0.2.23(bufferutil@4.0.8)(typescript@5.7.2)(utf-8-validate@5.0.10)
-      '@layerzerolabs/lz-definitions': 3.0.18
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@layerzerolabs/lz-definitions': 3.0.68
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       '@ton/core': 0.59.0(@ton/crypto@3.3.0)
       '@ton/crypto': 3.3.0
       '@ton/ton': 15.1.0(@ton/core@0.59.0(@ton/crypto@3.3.0))(@ton/crypto@3.3.0)
@@ -7407,7 +7584,42 @@ snapshots:
       - typescript
       - utf-8-validate
 
+  '@layerzerolabs/lz-utilities@3.0.68(bufferutil@4.0.8)(typescript@5.7.2)(utf-8-validate@5.0.10)':
+    dependencies:
+      '@ethersproject/bytes': 5.7.0
+      '@initia/initia.js': 0.2.23(bufferutil@4.0.8)(typescript@5.7.2)(utf-8-validate@5.0.10)
+      '@layerzerolabs/lz-definitions': 3.0.68
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@ton/core': 0.59.0(@ton/crypto@3.3.0)
+      '@ton/crypto': 3.3.0
+      '@ton/ton': 15.1.0(@ton/core@0.59.0(@ton/crypto@3.3.0))(@ton/crypto@3.3.0)
+      aptos: 1.21.0
+      bip39: 3.1.0
+      dayjs: 1.11.13
+      ed25519-hd-key: 1.3.0
+      ethers: 5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      memoizee: 0.4.17
+      picocolors: 1.0.0
+      pino: 8.21.0
+    transitivePeerDependencies:
+      - bufferutil
+      - debug
+      - encoding
+      - typescript
+      - utf-8-validate
+
   '@layerzerolabs/lz-v2-utilities@3.0.18':
+    dependencies:
+      '@ethersproject/abi': 5.7.0
+      '@ethersproject/address': 5.7.0
+      '@ethersproject/bignumber': 5.7.0
+      '@ethersproject/bytes': 5.7.0
+      '@ethersproject/keccak256': 5.7.0
+      '@ethersproject/solidity': 5.7.0
+      bs58: 5.0.0
+      tiny-invariant: 1.3.3
+
+  '@layerzerolabs/lz-v2-utilities@3.0.68':
     dependencies:
       '@ethersproject/abi': 5.7.0
       '@ethersproject/address': 5.7.0
@@ -7430,7 +7642,7 @@ snapshots:
       - bufferutil
       - utf-8-validate
 
-  '@layerzerolabs/oft-evm@3.0.0(q5k3xzrm7criyy7ebtcbo4up6a)':
+  '@layerzerolabs/oft-evm@3.1.1(q5k3xzrm7criyy7ebtcbo4up6a)':
     dependencies:
       '@layerzerolabs/lz-evm-messagelib-v2': 3.0.18(@axelar-network/axelar-gmp-sdk-solidity@5.10.0)(@chainlink/contracts-ccip@0.7.6(bufferutil@4.0.8)(ethers@5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10))(utf-8-validate@5.0.10))(@eth-optimism/contracts@0.6.0(bufferutil@4.0.8)(ethers@5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10))(utf-8-validate@5.0.10))(@layerzerolabs/lz-evm-protocol-v2@3.0.18(@openzeppelin/contracts-upgradeable@5.1.0(@openzeppelin/contracts@5.1.0))(@openzeppelin/contracts@5.1.0)(hardhat-deploy@0.12.4(bufferutil@4.0.8)(utf-8-validate@5.0.10))(solidity-bytes-utils@0.8.2))(@layerzerolabs/lz-evm-v1-0.7@3.0.18(@openzeppelin/contracts-upgradeable@5.1.0(@openzeppelin/contracts@5.1.0))(@openzeppelin/contracts@5.1.0)(hardhat-deploy@0.12.4(bufferutil@4.0.8)(utf-8-validate@5.0.10)))(@openzeppelin/contracts-upgradeable@5.1.0(@openzeppelin/contracts@5.1.0))(@openzeppelin/contracts@5.1.0)(hardhat-deploy@0.12.4(bufferutil@4.0.8)(utf-8-validate@5.0.10))(solidity-bytes-utils@0.8.2)
       '@layerzerolabs/lz-evm-protocol-v2': 3.0.18(@openzeppelin/contracts-upgradeable@5.1.0(@openzeppelin/contracts@5.1.0))(@openzeppelin/contracts@5.1.0)(hardhat-deploy@0.12.4(bufferutil@4.0.8)(utf-8-validate@5.0.10))(solidity-bytes-utils@0.8.2)
@@ -7439,18 +7651,19 @@ snapshots:
       '@openzeppelin/contracts': 5.1.0
       '@openzeppelin/contracts-upgradeable': 5.1.0(@openzeppelin/contracts@5.1.0)
 
-  '@layerzerolabs/oft-v2-solana-sdk@3.0.0(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)':
+  '@layerzerolabs/oft-v2-solana-sdk@3.0.68(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)':
     dependencies:
       '@ethersproject/bytes': 5.7.0
-      '@layerzerolabs/lz-solana-sdk-v2': 3.0.0(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)
-      '@layerzerolabs/lz-v2-utilities': 3.0.18
+      '@layerzerolabs/lz-foundation': 3.0.68(bufferutil@4.0.8)(typescript@5.7.2)(utf-8-validate@5.0.10)
+      '@layerzerolabs/lz-solana-sdk-v2': 3.0.68(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)
+      '@layerzerolabs/lz-v2-utilities': 3.0.68
       '@metaplex-foundation/beet': 0.7.2
       '@metaplex-foundation/beet-solana': 0.4.1(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       '@metaplex-foundation/umi': 0.9.2
-      '@metaplex-foundation/umi-eddsa-web3js': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))
+      '@metaplex-foundation/umi-eddsa-web3js': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))
       '@metaplex-foundation/umi-program-repository': 0.9.2(@metaplex-foundation/umi@0.9.2)
-      '@metaplex-foundation/umi-web3js-adapters': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@metaplex-foundation/umi-web3js-adapters': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       bn.js: 5.2.1
       dotenv: 16.4.5
     transitivePeerDependencies:
@@ -7468,7 +7681,7 @@ snapshots:
       prettier-plugin-packagejson: 2.5.6(prettier@3.4.0)
       prettier-plugin-solidity: 1.4.1(prettier@3.4.0)
 
-  '@layerzerolabs/protocol-devtools-evm@3.0.0(oa3ypzs3qh5mdkzvoqv7kgc4xe)':
+  '@layerzerolabs/protocol-devtools-evm@3.0.5(m4t2d3o6ulrntmpczi4vr6yxga)':
     dependencies:
       '@ethersproject/abstract-provider': 5.7.0
       '@ethersproject/abstract-signer': 5.7.0
@@ -7476,27 +7689,27 @@ snapshots:
       '@ethersproject/constants': 5.7.0
       '@ethersproject/contracts': 5.7.0
       '@ethersproject/providers': 5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10)
-      '@layerzerolabs/devtools': 0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
-      '@layerzerolabs/devtools-evm': 1.0.0(yndawg2n4w2vrqh66jxor477oe)
-      '@layerzerolabs/io-devtools': 0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
-      '@layerzerolabs/lz-definitions': 3.0.18
-      '@layerzerolabs/protocol-devtools': 1.1.0(@layerzerolabs/devtools@0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
+      '@layerzerolabs/devtools': 0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
+      '@layerzerolabs/devtools-evm': 1.0.4(hx3mujmloeqimi7ksqo5wpxpvy)
+      '@layerzerolabs/io-devtools': 0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
+      '@layerzerolabs/lz-definitions': 3.0.68
+      '@layerzerolabs/protocol-devtools': 1.1.4(@layerzerolabs/devtools@0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
       p-memoize: 4.0.4
       zod: 3.23.8
 
-  '@layerzerolabs/protocol-devtools-solana@4.0.0(5qypkzh4lfgpr3s63eci6inp4y)':
+  '@layerzerolabs/protocol-devtools-solana@4.0.7(k67kjvmewxl2uheutlxyqujtmi)':
     dependencies:
-      '@layerzerolabs/devtools': 0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
-      '@layerzerolabs/devtools-solana': 1.0.1(@layerzerolabs/devtools@0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bn.js@5.2.1)(bufferutil@4.0.8)(fp-ts@2.16.9)(utf-8-validate@5.0.10)(zod@3.23.8)
-      '@layerzerolabs/io-devtools': 0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
-      '@layerzerolabs/lz-definitions': 3.0.18
+      '@layerzerolabs/devtools': 0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
+      '@layerzerolabs/devtools-solana': 1.0.6(@layerzerolabs/devtools@0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bn.js@5.2.1)(bufferutil@4.0.8)(fp-ts@2.16.9)(utf-8-validate@5.0.10)(zod@3.23.8)
+      '@layerzerolabs/io-devtools': 0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
+      '@layerzerolabs/lz-definitions': 3.0.68
       '@layerzerolabs/lz-solana-sdk-v2': 3.0.0(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)
       '@layerzerolabs/lz-v2-utilities': 3.0.18
-      '@layerzerolabs/protocol-devtools': 1.1.0(@layerzerolabs/devtools@0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
-      '@layerzerolabs/ua-devtools': 3.0.0(vy43ptenw33asz3oxabub3frni)
+      '@layerzerolabs/protocol-devtools': 1.1.4(@layerzerolabs/devtools@0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
+      '@layerzerolabs/ua-devtools': 3.0.4(vnend5j44agttyiyihtut5kwuy)
       '@safe-global/api-kit': 1.3.1
       '@safe-global/protocol-kit': 1.3.0(bufferutil@4.0.8)(ethers@5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10))(utf-8-validate@5.0.10)
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       ethers: 5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       fp-ts: 2.16.9
       p-memoize: 4.0.4
@@ -7507,11 +7720,11 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@layerzerolabs/protocol-devtools@1.1.0(@layerzerolabs/devtools@0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)':
+  '@layerzerolabs/protocol-devtools@1.1.4(@layerzerolabs/devtools@0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)':
     dependencies:
-      '@layerzerolabs/devtools': 0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
-      '@layerzerolabs/io-devtools': 0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
-      '@layerzerolabs/lz-definitions': 3.0.18
+      '@layerzerolabs/devtools': 0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
+      '@layerzerolabs/io-devtools': 0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
+      '@layerzerolabs/lz-definitions': 3.0.68
       zod: 3.23.8
 
   '@layerzerolabs/solhint-config@3.0.18(typescript@5.7.2)':
@@ -7520,13 +7733,13 @@ snapshots:
     transitivePeerDependencies:
       - typescript
 
-  '@layerzerolabs/test-devtools-evm-foundry@5.1.0(t5md2p4xjg75aakpvy3mvo4j6y)':
+  '@layerzerolabs/test-devtools-evm-foundry@6.0.1(5rs5p7ujni4ow6ddrp6qqgcxji)':
     dependencies:
       '@layerzerolabs/lz-evm-messagelib-v2': 3.0.18(@axelar-network/axelar-gmp-sdk-solidity@5.10.0)(@chainlink/contracts-ccip@0.7.6(bufferutil@4.0.8)(ethers@5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10))(utf-8-validate@5.0.10))(@eth-optimism/contracts@0.6.0(bufferutil@4.0.8)(ethers@5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10))(utf-8-validate@5.0.10))(@layerzerolabs/lz-evm-protocol-v2@3.0.18(@openzeppelin/contracts-upgradeable@5.1.0(@openzeppelin/contracts@5.1.0))(@openzeppelin/contracts@5.1.0)(hardhat-deploy@0.12.4(bufferutil@4.0.8)(utf-8-validate@5.0.10))(solidity-bytes-utils@0.8.2))(@layerzerolabs/lz-evm-v1-0.7@3.0.18(@openzeppelin/contracts-upgradeable@5.1.0(@openzeppelin/contracts@5.1.0))(@openzeppelin/contracts@5.1.0)(hardhat-deploy@0.12.4(bufferutil@4.0.8)(utf-8-validate@5.0.10)))(@openzeppelin/contracts-upgradeable@5.1.0(@openzeppelin/contracts@5.1.0))(@openzeppelin/contracts@5.1.0)(hardhat-deploy@0.12.4(bufferutil@4.0.8)(utf-8-validate@5.0.10))(solidity-bytes-utils@0.8.2)
       '@layerzerolabs/lz-evm-protocol-v2': 3.0.18(@openzeppelin/contracts-upgradeable@5.1.0(@openzeppelin/contracts@5.1.0))(@openzeppelin/contracts@5.1.0)(hardhat-deploy@0.12.4(bufferutil@4.0.8)(utf-8-validate@5.0.10))(solidity-bytes-utils@0.8.2)
       '@layerzerolabs/lz-evm-v1-0.7': 3.0.18(@openzeppelin/contracts-upgradeable@5.1.0(@openzeppelin/contracts@5.1.0))(@openzeppelin/contracts@5.1.0)(hardhat-deploy@0.12.4(bufferutil@4.0.8)(utf-8-validate@5.0.10))
       '@layerzerolabs/oapp-evm': 0.3.0(b4lshvt5gbve53ksz42rurj4dy)
-      '@layerzerolabs/oft-evm': 3.0.0(q5k3xzrm7criyy7ebtcbo4up6a)
+      '@layerzerolabs/oft-evm': 3.1.1(q5k3xzrm7criyy7ebtcbo4up6a)
       '@openzeppelin/contracts': 5.1.0
       '@openzeppelin/contracts-upgradeable': 5.1.0(@openzeppelin/contracts@5.1.0)
 
@@ -7537,27 +7750,27 @@ snapshots:
 
   '@layerzerolabs/toolbox-foundry@0.1.9': {}
 
-  '@layerzerolabs/toolbox-hardhat@0.6.0(xnxsojg5nbje3d2qrpy2w4y2pe)':
+  '@layerzerolabs/toolbox-hardhat@0.6.6(xnxsojg5nbje3d2qrpy2w4y2pe)':
     dependencies:
       '@ethersproject/abi': 5.7.0
       '@ethersproject/address': 5.7.0
       '@ethersproject/bytes': 5.7.0
       '@ethersproject/contracts': 5.7.0
       '@ethersproject/hash': 5.7.0
-      '@layerzerolabs/devtools': 0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
-      '@layerzerolabs/devtools-evm': 1.0.0(yndawg2n4w2vrqh66jxor477oe)
-      '@layerzerolabs/devtools-evm-hardhat': 2.0.1(ytvpk6qkmiwpcsz4e4s265cynq)
-      '@layerzerolabs/io-devtools': 0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
-      '@layerzerolabs/lz-definitions': 3.0.18
+      '@layerzerolabs/devtools': 0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
+      '@layerzerolabs/devtools-evm': 1.0.4(hx3mujmloeqimi7ksqo5wpxpvy)
+      '@layerzerolabs/devtools-evm-hardhat': 2.0.6(p6k77pzecpgh6zc44vde4vytbi)
+      '@layerzerolabs/io-devtools': 0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
+      '@layerzerolabs/lz-definitions': 3.0.68
       '@layerzerolabs/lz-evm-sdk-v1': 3.0.18(bufferutil@4.0.8)(utf-8-validate@5.0.10)
-      '@layerzerolabs/lz-evm-sdk-v2': 3.0.18(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@layerzerolabs/lz-evm-sdk-v2': 3.0.68(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       '@layerzerolabs/lz-v2-utilities': 3.0.18
-      '@layerzerolabs/protocol-devtools': 1.1.0(@layerzerolabs/devtools@0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
-      '@layerzerolabs/protocol-devtools-evm': 3.0.0(oa3ypzs3qh5mdkzvoqv7kgc4xe)
+      '@layerzerolabs/protocol-devtools': 1.1.4(@layerzerolabs/devtools@0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
+      '@layerzerolabs/protocol-devtools-evm': 3.0.5(m4t2d3o6ulrntmpczi4vr6yxga)
       '@layerzerolabs/test-devtools-evm-hardhat': 0.5.0(hardhat@2.22.16(bufferutil@4.0.8)(ts-node@10.9.2(@swc/core@1.9.3(@swc/helpers@0.5.15))(@types/node@18.18.14)(typescript@5.7.2))(typescript@5.7.2)(utf-8-validate@5.0.10))(solidity-bytes-utils@0.8.2)
-      '@layerzerolabs/ua-devtools': 3.0.0(vy43ptenw33asz3oxabub3frni)
-      '@layerzerolabs/ua-devtools-evm': 5.0.0(3oquswhql6qiifck45q2sxrbky)
-      '@layerzerolabs/ua-devtools-evm-hardhat': 6.0.2(mlkylfp5hi75ttum6bsoxelase)
+      '@layerzerolabs/ua-devtools': 3.0.4(vnend5j44agttyiyihtut5kwuy)
+      '@layerzerolabs/ua-devtools-evm': 5.0.5(m37nqjuiwewpuwbnzol6xtev7u)
+      '@layerzerolabs/ua-devtools-evm-hardhat': 6.0.8(zv7flfvo3ufj3lgdegs4jcbjpi)
       '@nomicfoundation/hardhat-ethers': 3.0.8(ethers@5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10))(hardhat@2.22.16(bufferutil@4.0.8)(ts-node@10.9.2(@swc/core@1.9.3(@swc/helpers@0.5.15))(@types/node@18.18.14)(typescript@5.7.2))(typescript@5.7.2)(utf-8-validate@5.0.10))
       ethers: 5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       fp-ts: 2.16.9
@@ -7583,57 +7796,57 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@layerzerolabs/ua-devtools-evm-hardhat@6.0.2(mlkylfp5hi75ttum6bsoxelase)':
+  '@layerzerolabs/ua-devtools-evm-hardhat@6.0.8(zv7flfvo3ufj3lgdegs4jcbjpi)':
     dependencies:
       '@ethersproject/abi': 5.7.0
       '@ethersproject/bytes': 5.7.0
       '@ethersproject/contracts': 5.7.0
       '@ethersproject/hash': 5.7.0
-      '@layerzerolabs/devtools': 0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
-      '@layerzerolabs/devtools-evm': 1.0.0(yndawg2n4w2vrqh66jxor477oe)
-      '@layerzerolabs/devtools-evm-hardhat': 2.0.1(ytvpk6qkmiwpcsz4e4s265cynq)
-      '@layerzerolabs/io-devtools': 0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
-      '@layerzerolabs/lz-definitions': 3.0.18
-      '@layerzerolabs/protocol-devtools': 1.1.0(@layerzerolabs/devtools@0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
-      '@layerzerolabs/protocol-devtools-evm': 3.0.0(oa3ypzs3qh5mdkzvoqv7kgc4xe)
-      '@layerzerolabs/ua-devtools': 3.0.0(vy43ptenw33asz3oxabub3frni)
-      '@layerzerolabs/ua-devtools-evm': 5.0.0(3oquswhql6qiifck45q2sxrbky)
+      '@layerzerolabs/devtools': 0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
+      '@layerzerolabs/devtools-evm': 1.0.4(hx3mujmloeqimi7ksqo5wpxpvy)
+      '@layerzerolabs/devtools-evm-hardhat': 2.0.6(p6k77pzecpgh6zc44vde4vytbi)
+      '@layerzerolabs/io-devtools': 0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
+      '@layerzerolabs/lz-definitions': 3.0.68
+      '@layerzerolabs/protocol-devtools': 1.1.4(@layerzerolabs/devtools@0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
+      '@layerzerolabs/protocol-devtools-evm': 3.0.5(m4t2d3o6ulrntmpczi4vr6yxga)
+      '@layerzerolabs/ua-devtools': 3.0.4(vnend5j44agttyiyihtut5kwuy)
+      '@layerzerolabs/ua-devtools-evm': 5.0.5(m37nqjuiwewpuwbnzol6xtev7u)
       ethers: 5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       hardhat: 2.22.16(bufferutil@4.0.8)(ts-node@10.9.2(@swc/core@1.9.3(@swc/helpers@0.5.15))(@types/node@18.18.14)(typescript@5.7.2))(typescript@5.7.2)(utf-8-validate@5.0.10)
       hardhat-deploy: 0.12.4(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       p-memoize: 4.0.4
       typescript: 5.7.2
 
-  '@layerzerolabs/ua-devtools-evm@5.0.0(3oquswhql6qiifck45q2sxrbky)':
+  '@layerzerolabs/ua-devtools-evm@5.0.5(m37nqjuiwewpuwbnzol6xtev7u)':
     dependencies:
       '@ethersproject/constants': 5.7.0
       '@ethersproject/contracts': 5.7.0
-      '@layerzerolabs/devtools': 0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
-      '@layerzerolabs/devtools-evm': 1.0.0(yndawg2n4w2vrqh66jxor477oe)
-      '@layerzerolabs/io-devtools': 0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
-      '@layerzerolabs/lz-definitions': 3.0.18
+      '@layerzerolabs/devtools': 0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
+      '@layerzerolabs/devtools-evm': 1.0.4(hx3mujmloeqimi7ksqo5wpxpvy)
+      '@layerzerolabs/io-devtools': 0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
+      '@layerzerolabs/lz-definitions': 3.0.68
       '@layerzerolabs/lz-v2-utilities': 3.0.18
-      '@layerzerolabs/protocol-devtools': 1.1.0(@layerzerolabs/devtools@0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
-      '@layerzerolabs/protocol-devtools-evm': 3.0.0(oa3ypzs3qh5mdkzvoqv7kgc4xe)
-      '@layerzerolabs/ua-devtools': 3.0.0(vy43ptenw33asz3oxabub3frni)
+      '@layerzerolabs/protocol-devtools': 1.1.4(@layerzerolabs/devtools@0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
+      '@layerzerolabs/protocol-devtools-evm': 3.0.5(m4t2d3o6ulrntmpczi4vr6yxga)
+      '@layerzerolabs/ua-devtools': 3.0.4(vnend5j44agttyiyihtut5kwuy)
       p-memoize: 4.0.4
       zod: 3.23.8
 
-  '@layerzerolabs/ua-devtools-solana@4.0.1(u26dzzxfha6hsre2vemaqaap3m)':
+  '@layerzerolabs/ua-devtools-solana@4.1.0(vouy6yru42fj6xxoh4lnbmwmca)':
     dependencies:
-      '@layerzerolabs/devtools': 0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
-      '@layerzerolabs/devtools-solana': 1.0.1(@layerzerolabs/devtools@0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bn.js@5.2.1)(bufferutil@4.0.8)(fp-ts@2.16.9)(utf-8-validate@5.0.10)(zod@3.23.8)
-      '@layerzerolabs/io-devtools': 0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
-      '@layerzerolabs/lz-definitions': 3.0.18
+      '@layerzerolabs/devtools': 0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
+      '@layerzerolabs/devtools-solana': 1.0.6(@layerzerolabs/devtools@0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bn.js@5.2.1)(bufferutil@4.0.8)(fp-ts@2.16.9)(utf-8-validate@5.0.10)(zod@3.23.8)
+      '@layerzerolabs/io-devtools': 0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
+      '@layerzerolabs/lz-definitions': 3.0.68
       '@layerzerolabs/lz-solana-sdk-v2': 3.0.0(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)
       '@layerzerolabs/lz-v2-utilities': 3.0.18
-      '@layerzerolabs/oft-v2-solana-sdk': 3.0.0(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)
-      '@layerzerolabs/protocol-devtools': 1.1.0(@layerzerolabs/devtools@0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
-      '@layerzerolabs/protocol-devtools-solana': 4.0.0(5qypkzh4lfgpr3s63eci6inp4y)
-      '@layerzerolabs/ua-devtools': 3.0.0(vy43ptenw33asz3oxabub3frni)
+      '@layerzerolabs/oft-v2-solana-sdk': 3.0.68(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)
+      '@layerzerolabs/protocol-devtools': 1.1.4(@layerzerolabs/devtools@0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
+      '@layerzerolabs/protocol-devtools-solana': 4.0.7(k67kjvmewxl2uheutlxyqujtmi)
+      '@layerzerolabs/ua-devtools': 3.0.4(vnend5j44agttyiyihtut5kwuy)
       '@safe-global/api-kit': 1.3.1
       '@safe-global/protocol-kit': 1.3.0(bufferutil@4.0.8)(ethers@5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10))(utf-8-validate@5.0.10)
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       ethers: 5.7.2(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       fp-ts: 2.16.9
       p-memoize: 4.0.4
@@ -7644,13 +7857,13 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@layerzerolabs/ua-devtools@3.0.0(vy43ptenw33asz3oxabub3frni)':
+  '@layerzerolabs/ua-devtools@3.0.4(vnend5j44agttyiyihtut5kwuy)':
     dependencies:
-      '@layerzerolabs/devtools': 0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
-      '@layerzerolabs/io-devtools': 0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
-      '@layerzerolabs/lz-definitions': 3.0.18
+      '@layerzerolabs/devtools': 0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
+      '@layerzerolabs/io-devtools': 0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8)
+      '@layerzerolabs/lz-definitions': 3.0.68
       '@layerzerolabs/lz-v2-utilities': 3.0.18
-      '@layerzerolabs/protocol-devtools': 1.1.0(@layerzerolabs/devtools@0.4.1(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.14(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.18)(zod@3.23.8)
+      '@layerzerolabs/protocol-devtools': 1.1.4(@layerzerolabs/devtools@0.4.5(@ethersproject/bytes@5.7.0)(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8))(@layerzerolabs/io-devtools@0.1.15(ink-gradient@2.0.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink-table@3.1.0(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2))(ink@3.2.0(bufferutil@4.0.8)(react@17.0.2)(utf-8-validate@5.0.10))(react@17.0.2)(yoga-layout-prebuilt@1.10.0)(zod@3.23.8))(@layerzerolabs/lz-definitions@3.0.68)(zod@3.23.8)
       zod: 3.23.8
 
   '@ledgerhq/devices@8.4.4':
@@ -7698,7 +7911,7 @@ snapshots:
   '@metaplex-foundation/beet-solana@0.3.1(bufferutil@4.0.8)(utf-8-validate@5.0.10)':
     dependencies:
       '@metaplex-foundation/beet': 0.7.2
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       bs58: 5.0.0
       debug: 4.3.7(supports-color@8.1.1)
     transitivePeerDependencies:
@@ -7710,7 +7923,7 @@ snapshots:
   '@metaplex-foundation/beet-solana@0.4.1(bufferutil@4.0.8)(utf-8-validate@5.0.10)':
     dependencies:
       '@metaplex-foundation/beet': 0.7.2
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       bs58: 5.0.0
       debug: 4.3.7(supports-color@8.1.1)
     transitivePeerDependencies:
@@ -7751,7 +7964,7 @@ snapshots:
       '@metaplex-foundation/beet': 0.7.2
       '@metaplex-foundation/beet-solana': 0.3.1(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       '@metaplex-foundation/rustbin': 0.3.5
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       ansi-colors: 4.1.3
       camelcase: 6.3.0
       debug: 4.3.7(supports-color@8.1.1)
@@ -7765,18 +7978,18 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@metaplex-foundation/umi-bundle-defaults@0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))':
+  '@metaplex-foundation/umi-bundle-defaults@0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))':
     dependencies:
       '@metaplex-foundation/umi': 0.9.2
       '@metaplex-foundation/umi-downloader-http': 0.9.2(@metaplex-foundation/umi@0.9.2)
-      '@metaplex-foundation/umi-eddsa-web3js': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))
+      '@metaplex-foundation/umi-eddsa-web3js': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))
       '@metaplex-foundation/umi-http-fetch': 0.9.2(@metaplex-foundation/umi@0.9.2)
       '@metaplex-foundation/umi-program-repository': 0.9.2(@metaplex-foundation/umi@0.9.2)
       '@metaplex-foundation/umi-rpc-chunk-get-accounts': 0.9.2(@metaplex-foundation/umi@0.9.2)
-      '@metaplex-foundation/umi-rpc-web3js': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))
+      '@metaplex-foundation/umi-rpc-web3js': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))
       '@metaplex-foundation/umi-serializer-data-view': 0.9.2(@metaplex-foundation/umi@0.9.2)
-      '@metaplex-foundation/umi-transaction-factory-web3js': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@metaplex-foundation/umi-transaction-factory-web3js': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
     transitivePeerDependencies:
       - encoding
 
@@ -7784,12 +7997,12 @@ snapshots:
     dependencies:
       '@metaplex-foundation/umi': 0.9.2
 
-  '@metaplex-foundation/umi-eddsa-web3js@0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))':
+  '@metaplex-foundation/umi-eddsa-web3js@0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))':
     dependencies:
       '@metaplex-foundation/umi': 0.9.2
-      '@metaplex-foundation/umi-web3js-adapters': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))
+      '@metaplex-foundation/umi-web3js-adapters': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))
       '@noble/curves': 1.7.0
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
 
   '@metaplex-foundation/umi-http-fetch@0.9.2(@metaplex-foundation/umi@0.9.2)':
     dependencies:
@@ -7812,11 +8025,11 @@ snapshots:
     dependencies:
       '@metaplex-foundation/umi': 0.9.2
 
-  '@metaplex-foundation/umi-rpc-web3js@0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))':
+  '@metaplex-foundation/umi-rpc-web3js@0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))':
     dependencies:
       '@metaplex-foundation/umi': 0.9.2
-      '@metaplex-foundation/umi-web3js-adapters': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@metaplex-foundation/umi-web3js-adapters': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
 
   '@metaplex-foundation/umi-serializer-data-view@0.9.2(@metaplex-foundation/umi@0.9.2)':
     dependencies:
@@ -7840,16 +8053,16 @@ snapshots:
       '@metaplex-foundation/umi-serializers-encodings': 0.8.9
       '@metaplex-foundation/umi-serializers-numbers': 0.8.9
 
-  '@metaplex-foundation/umi-transaction-factory-web3js@0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))':
+  '@metaplex-foundation/umi-transaction-factory-web3js@0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))':
     dependencies:
       '@metaplex-foundation/umi': 0.9.2
-      '@metaplex-foundation/umi-web3js-adapters': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@metaplex-foundation/umi-web3js-adapters': 0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
 
-  '@metaplex-foundation/umi-web3js-adapters@0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))':
+  '@metaplex-foundation/umi-web3js-adapters@0.9.2(@metaplex-foundation/umi@0.9.2)(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))':
     dependencies:
       '@metaplex-foundation/umi': 0.9.2
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       buffer: 6.0.3
 
   '@metaplex-foundation/umi@0.9.2':
@@ -7869,6 +8082,8 @@ snapshots:
   '@noble/curves@1.7.0':
     dependencies:
       '@noble/hashes': 1.6.0
+
+  '@noble/ed25519@1.7.3': {}
 
   '@noble/hashes@1.2.0': {}
 
@@ -8218,8 +8433,8 @@ snapshots:
 
   '@solana-developers/helpers@2.4.0(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)':
     dependencies:
-      '@solana/spl-token': 0.4.9(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/spl-token': 0.4.9(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       bs58: 6.0.0
       dotenv: 16.4.5
     transitivePeerDependencies:
@@ -8232,7 +8447,7 @@ snapshots:
   '@solana/buffer-layout-utils@0.2.0(bufferutil@4.0.8)(utf-8-validate@5.0.10)':
     dependencies:
       '@solana/buffer-layout': 4.0.1
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       bigint-buffer: 1.1.5
       bignumber.js: 9.1.2
     transitivePeerDependencies:
@@ -8298,28 +8513,28 @@ snapshots:
     transitivePeerDependencies:
       - fastestsmallesttextencoderdecoder
 
-  '@solana/spl-token-group@0.0.7(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)':
+  '@solana/spl-token-group@0.0.7(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)':
     dependencies:
       '@solana/codecs': 2.0.0-rc.1(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
     transitivePeerDependencies:
       - fastestsmallesttextencoderdecoder
       - typescript
 
-  '@solana/spl-token-metadata@0.1.6(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)':
+  '@solana/spl-token-metadata@0.1.6(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)':
     dependencies:
       '@solana/codecs': 2.0.0-rc.1(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
     transitivePeerDependencies:
       - fastestsmallesttextencoderdecoder
       - typescript
 
-  '@solana/spl-token@0.3.11(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)':
+  '@solana/spl-token@0.3.11(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)':
     dependencies:
       '@solana/buffer-layout': 4.0.1
       '@solana/buffer-layout-utils': 0.2.0(bufferutil@4.0.8)(utf-8-validate@5.0.10)
-      '@solana/spl-token-metadata': 0.1.6(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/spl-token-metadata': 0.1.6(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       buffer: 6.0.3
     transitivePeerDependencies:
       - bufferutil
@@ -8328,13 +8543,13 @@ snapshots:
       - typescript
       - utf-8-validate
 
-  '@solana/spl-token@0.4.9(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)':
+  '@solana/spl-token@0.4.9(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)(utf-8-validate@5.0.10)':
     dependencies:
       '@solana/buffer-layout': 4.0.1
       '@solana/buffer-layout-utils': 0.2.0(bufferutil@4.0.8)(utf-8-validate@5.0.10)
-      '@solana/spl-token-group': 0.0.7(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)
-      '@solana/spl-token-metadata': 0.1.6(@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10))(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/spl-token-group': 0.0.7(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)
+      '@solana/spl-token-metadata': 0.1.6(@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10))(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.7.2)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       buffer: 6.0.3
     transitivePeerDependencies:
       - bufferutil
@@ -8343,7 +8558,7 @@ snapshots:
       - typescript
       - utf-8-validate
 
-  '@solana/web3.js@1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)':
+  '@solana/web3.js@1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)':
     dependencies:
       '@babel/runtime': 7.26.0
       '@noble/curves': 1.7.0
@@ -8370,7 +8585,7 @@ snapshots:
   '@sqds/sdk@2.0.4(bufferutil@4.0.8)(utf-8-validate@5.0.10)':
     dependencies:
       '@coral-xyz/anchor': 0.26.0(bufferutil@4.0.8)(utf-8-validate@5.0.10)
-      '@solana/web3.js': 1.95.5(bufferutil@4.0.8)(utf-8-validate@5.0.10)
+      '@solana/web3.js': 1.95.8(bufferutil@4.0.8)(utf-8-validate@5.0.10)
       bn.js: 5.2.1
     transitivePeerDependencies:
       - bufferutil
@@ -8783,6 +8998,10 @@ snapshots:
       jsonparse: 1.3.1
       through: 2.3.8
 
+  abort-controller@3.0.0:
+    dependencies:
+      event-target-shim: 5.0.1
+
   abortcontroller-polyfill@1.7.6: {}
 
   abstract-leveldown@6.2.3:
@@ -8994,6 +9213,8 @@ snapshots:
   async@3.2.6: {}
 
   asynckit@0.4.0: {}
+
+  atomic-sleep@1.0.0: {}
 
   auto-bind@4.0.0: {}
 
@@ -9639,6 +9860,8 @@ snapshots:
       is-data-view: 1.0.1
 
   dataloader@2.2.2: {}
+
+  dayjs@1.11.13: {}
 
   debug@2.6.9:
     dependencies:
@@ -10300,6 +10523,8 @@ snapshots:
       d: 1.0.2
       es5-ext: 0.10.64
 
+  event-target-shim@5.0.1: {}
+
   eventemitter3@4.0.4: {}
 
   eventemitter3@4.0.7: {}
@@ -10398,6 +10623,8 @@ snapshots:
   fast-json-stable-stringify@2.1.0: {}
 
   fast-levenshtein@2.0.6: {}
+
+  fast-redact@3.5.0: {}
 
   fast-stable-stringify@1.0.0: {}
 
@@ -12103,6 +12330,8 @@ snapshots:
     dependencies:
       http-https: 1.0.0
 
+  on-exit-leak-free@2.1.2: {}
+
   on-finished@2.4.1:
     dependencies:
       ee-first: 1.1.1
@@ -12241,6 +12470,8 @@ snapshots:
 
   performance-now@2.1.0: {}
 
+  picocolors@1.0.0: {}
+
   picocolors@1.1.1: {}
 
   picomatch@2.3.1: {}
@@ -12254,6 +12485,27 @@ snapshots:
       pinkie: 2.0.4
 
   pinkie@2.0.4: {}
+
+  pino-abstract-transport@1.2.0:
+    dependencies:
+      readable-stream: 4.7.0
+      split2: 4.2.0
+
+  pino-std-serializers@6.2.2: {}
+
+  pino@8.21.0:
+    dependencies:
+      atomic-sleep: 1.0.0
+      fast-redact: 3.5.0
+      on-exit-leak-free: 2.1.2
+      pino-abstract-transport: 1.2.0
+      pino-std-serializers: 6.2.2
+      process-warning: 3.0.0
+      quick-format-unescaped: 4.0.4
+      real-require: 0.2.0
+      safe-stable-stringify: 2.5.0
+      sonic-boom: 3.8.1
+      thread-stream: 2.7.0
 
   pirates@4.0.6: {}
 
@@ -12293,6 +12545,8 @@ snapshots:
       '@jest/schemas': 29.6.3
       ansi-styles: 5.2.0
       react-is: 18.3.1
+
+  process-warning@3.0.0: {}
 
   process@0.11.10: {}
 
@@ -12368,6 +12622,8 @@ snapshots:
 
   queue-microtask@1.2.3: {}
 
+  quick-format-unescaped@4.0.4: {}
+
   quick-lru@5.1.1: {}
 
   randombytes@2.1.0:
@@ -12431,11 +12687,21 @@ snapshots:
       string_decoder: 1.3.0
       util-deprecate: 1.0.2
 
+  readable-stream@4.7.0:
+    dependencies:
+      abort-controller: 3.0.0
+      buffer: 6.0.3
+      events: 3.3.0
+      process: 0.11.10
+      string_decoder: 1.3.0
+
   readdirp@3.6.0:
     dependencies:
       picomatch: 2.3.1
 
   readdirp@4.0.2: {}
+
+  real-require@0.2.0: {}
 
   reduce-flatten@2.0.0: {}
 
@@ -12574,7 +12840,7 @@ snapshots:
     dependencies:
       queue-microtask: 1.2.3
 
-  rustbn.js@0.3.0: {}
+  rustbn.js@0.2.0: {}
 
   rxjs@7.8.1:
     dependencies:
@@ -12810,6 +13076,10 @@ snapshots:
       ds-test: https://codeload.github.com/dapphub/ds-test/tar.gz/e282159d5170298eb2455a6c05280ab5a73a4ef0
       forge-std: 1.1.2
 
+  sonic-boom@3.8.1:
+    dependencies:
+      atomic-sleep: 1.0.0
+
   sort-object-keys@1.1.3: {}
 
   sort-package-json@2.12.0:
@@ -12848,6 +13118,8 @@ snapshots:
       spdx-license-ids: 3.0.20
 
   spdx-license-ids@3.0.20: {}
+
+  split2@4.2.0: {}
 
   spok@1.5.5:
     dependencies:
@@ -13039,6 +13311,10 @@ snapshots:
   text-hex@1.0.0: {}
 
   text-table@0.2.0: {}
+
+  thread-stream@2.7.0:
+    dependencies:
+      real-require: 0.2.0
 
   through@2.3.8: {}
 
