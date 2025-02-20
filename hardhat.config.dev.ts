@@ -83,6 +83,11 @@ const config: HardhatUserConfig = {
             url: `https://rpc.sepolia.mantle.xyz`,
             accounts,
         },
+        sonic_blaze: {
+            eid: EndpointId.SONIC_V2_TESTNET,
+            url: `https://rpc.blaze.soniclabs.com`,
+            accounts,
+        },
     },
     namedAccounts: {
         deployer: {

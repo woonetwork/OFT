@@ -87,7 +87,12 @@ const config: HardhatUserConfig = {
             eid: EndpointId.MANTLE_V2_MAINNET,
             url: `https://rpc.mantle.xyz`,
             accounts,
-        }
+        },
+        sonic: {
+            eid: EndpointId.SONIC_V2_MAINNET,
+            url: `https://rpc.soniclabs.com`,
+            accounts,
+        },
     },
     namedAccounts: {
         deployer: {
