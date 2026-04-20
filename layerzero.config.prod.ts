@@ -91,7 +91,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5'],
+                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5', '0x380275805876ff19055ea900cdb2b46a94ecf20d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -99,7 +99,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5'],
+                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5', '0x380275805876ff19055ea900cdb2b46a94ecf20d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -131,7 +131,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b'],
+                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -139,7 +139,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b'],
+                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -160,6 +160,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '0x589dEDbD617e0CBcB916A9223F4d1300c294236b',
                             '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5',
+                            '0x380275805876ff19055ea900cdb2b46a94ecf20d',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -171,6 +172,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '0x589dEDbD617e0CBcB916A9223F4d1300c294236b',
                             '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5',
+                            '0x380275805876ff19055ea900cdb2b46a94ecf20d',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -218,6 +220,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '4VDjp6XQaxoZf5RGwiPU9NR1EXSZn2TP4ATMmiSzLfhb',
                             'GPjyWr8vCotGuFubDpTxDxy9Vj1ZeEN4F2dwRmFiaGab',
+                            'HR9NQKK1ynW9NzgdM37dU5CBtqRHTukmbMKS7qkwSkHX',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -229,6 +232,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '4VDjp6XQaxoZf5RGwiPU9NR1EXSZn2TP4ATMmiSzLfhb',
                             'GPjyWr8vCotGuFubDpTxDxy9Vj1ZeEN4F2dwRmFiaGab',
+                            'HR9NQKK1ynW9NzgdM37dU5CBtqRHTukmbMKS7qkwSkHX',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -262,6 +266,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480',
                             '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b',
+                            '0x7fe673201724925b5c477d4e1a4bd3e954688cf5',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -273,6 +278,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480',
                             '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b',
+                            '0x7fe673201724925b5c477d4e1a4bd3e954688cf5',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -320,6 +326,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '4VDjp6XQaxoZf5RGwiPU9NR1EXSZn2TP4ATMmiSzLfhb',
                             'GPjyWr8vCotGuFubDpTxDxy9Vj1ZeEN4F2dwRmFiaGab',
+                            'HR9NQKK1ynW9NzgdM37dU5CBtqRHTukmbMKS7qkwSkHX',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -331,6 +338,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '4VDjp6XQaxoZf5RGwiPU9NR1EXSZn2TP4ATMmiSzLfhb',
                             'GPjyWr8vCotGuFubDpTxDxy9Vj1ZeEN4F2dwRmFiaGab',
+                            'HR9NQKK1ynW9NzgdM37dU5CBtqRHTukmbMKS7qkwSkHX',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -375,7 +383,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5'],
+                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5', '0x380275805876ff19055ea900cdb2b46a94ecf20d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -383,7 +391,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5'],
+                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5', '0x380275805876ff19055ea900cdb2b46a94ecf20d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -415,7 +423,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3'],
+                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3', '0xa7b5189bca84cd304d8553977c7c614329750d99'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -423,7 +431,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3'],
+                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3', '0xa7b5189bca84cd304d8553977c7c614329750d99'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -455,7 +463,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b'],
+                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -463,7 +471,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b'],
+                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -495,7 +503,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3'],
+                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3', '0xa7b5189bca84cd304d8553977c7c614329750d99'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -503,7 +511,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3'],
+                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3', '0xa7b5189bca84cd304d8553977c7c614329750d99'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -524,6 +532,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '0x9e059a54699a285714207b43b055483e78faac25',
                             '0x658947bc7956aea0067a62cf87ab02ae199ef3f3',
+                            '0xa7b5189bca84cd304d8553977c7c614329750d99',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -535,6 +544,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '0x9e059a54699a285714207b43b055483e78faac25',
                             '0x658947bc7956aea0067a62cf87ab02ae199ef3f3',
+                            '0xa7b5189bca84cd304d8553977c7c614329750d99',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -582,6 +592,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '4VDjp6XQaxoZf5RGwiPU9NR1EXSZn2TP4ATMmiSzLfhb',
                             'GPjyWr8vCotGuFubDpTxDxy9Vj1ZeEN4F2dwRmFiaGab',
+                            'HR9NQKK1ynW9NzgdM37dU5CBtqRHTukmbMKS7qkwSkHX',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -593,6 +604,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '4VDjp6XQaxoZf5RGwiPU9NR1EXSZn2TP4ATMmiSzLfhb',
                             'GPjyWr8vCotGuFubDpTxDxy9Vj1ZeEN4F2dwRmFiaGab',
+                            'HR9NQKK1ynW9NzgdM37dU5CBtqRHTukmbMKS7qkwSkHX',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -637,7 +649,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5'],
+                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5', '0x380275805876ff19055ea900cdb2b46a94ecf20d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -645,7 +657,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5'],
+                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5', '0x380275805876ff19055ea900cdb2b46a94ecf20d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -677,7 +689,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c'],
+                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c', '0x1253e268bc04bb43cb96d2f7ee858b8a1433cf6d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -685,7 +697,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c'],
+                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c', '0x1253e268bc04bb43cb96d2f7ee858b8a1433cf6d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -717,7 +729,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b'],
+                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -725,7 +737,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b'],
+                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -757,7 +769,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c'],
+                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c', '0x1253e268bc04bb43cb96d2f7ee858b8a1433cf6d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -765,7 +777,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c'],
+                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c', '0x1253e268bc04bb43cb96d2f7ee858b8a1433cf6d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -797,7 +809,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c'],
+                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c', '0x1253e268bc04bb43cb96d2f7ee858b8a1433cf6d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -805,7 +817,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c'],
+                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c', '0x1253e268bc04bb43cb96d2f7ee858b8a1433cf6d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -837,7 +849,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3'],
+                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3', '0xa7b5189bca84cd304d8553977c7c614329750d99'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -845,7 +857,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3'],
+                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3', '0xa7b5189bca84cd304d8553977c7c614329750d99'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -866,6 +878,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '0x620a9df73d2f1015ea75aea1067227f9013f5c51',
                             '0xb183c2b91cf76cad13602b32ada2fd273f19009c',
+                            '0x1253e268bc04bb43cb96d2f7ee858b8a1433cf6d',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -877,6 +890,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '0x620a9df73d2f1015ea75aea1067227f9013f5c51',
                             '0xb183c2b91cf76cad13602b32ada2fd273f19009c',
+                            '0x1253e268bc04bb43cb96d2f7ee858b8a1433cf6d',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -924,6 +938,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '4VDjp6XQaxoZf5RGwiPU9NR1EXSZn2TP4ATMmiSzLfhb',
                             'GPjyWr8vCotGuFubDpTxDxy9Vj1ZeEN4F2dwRmFiaGab',
+                            'HR9NQKK1ynW9NzgdM37dU5CBtqRHTukmbMKS7qkwSkHX',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -935,6 +950,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '4VDjp6XQaxoZf5RGwiPU9NR1EXSZn2TP4ATMmiSzLfhb',
                             'GPjyWr8vCotGuFubDpTxDxy9Vj1ZeEN4F2dwRmFiaGab',
+                            'HR9NQKK1ynW9NzgdM37dU5CBtqRHTukmbMKS7qkwSkHX',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -979,7 +995,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5'],
+                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5', '0x380275805876ff19055ea900cdb2b46a94ecf20d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -987,7 +1003,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5'],
+                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5', '0x380275805876ff19055ea900cdb2b46a94ecf20d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1019,7 +1035,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76'],
+                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1027,7 +1043,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76'],
+                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1059,7 +1075,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b'],
+                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1067,7 +1083,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b'],
+                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1099,7 +1115,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76'],
+                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1107,7 +1123,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76'],
+                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1139,7 +1155,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76'],
+                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1147,7 +1163,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76'],
+                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1179,7 +1195,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3'],
+                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3', '0xa7b5189bca84cd304d8553977c7c614329750d99'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1187,7 +1203,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3'],
+                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3', '0xa7b5189bca84cd304d8553977c7c614329750d99'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1219,7 +1235,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76'],
+                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1227,7 +1243,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76'],
+                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1259,7 +1275,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c'],
+                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c', '0x1253e268bc04bb43cb96d2f7ee858b8a1433cf6d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1267,7 +1283,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c'],
+                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c', '0x1253e268bc04bb43cb96d2f7ee858b8a1433cf6d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1288,6 +1304,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '0x28b6140ead70cb2fb669705b3598ffb4beaa060b',
                             '0xb19a9370d404308040a9760678c8ca28affbbb76',
+                            '0x7fe673201724925b5c477d4e1a4bd3e954688cf5',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -1299,6 +1316,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '0x28b6140ead70cb2fb669705b3598ffb4beaa060b',
                             '0xb19a9370d404308040a9760678c8ca28affbbb76',
+                            '0x7fe673201724925b5c477d4e1a4bd3e954688cf5',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -1346,6 +1364,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '4VDjp6XQaxoZf5RGwiPU9NR1EXSZn2TP4ATMmiSzLfhb',
                             'GPjyWr8vCotGuFubDpTxDxy9Vj1ZeEN4F2dwRmFiaGab',
+                            'HR9NQKK1ynW9NzgdM37dU5CBtqRHTukmbMKS7qkwSkHX',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -1357,6 +1376,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '4VDjp6XQaxoZf5RGwiPU9NR1EXSZn2TP4ATMmiSzLfhb',
                             'GPjyWr8vCotGuFubDpTxDxy9Vj1ZeEN4F2dwRmFiaGab',
+                            'HR9NQKK1ynW9NzgdM37dU5CBtqRHTukmbMKS7qkwSkHX',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -1401,7 +1421,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5'],
+                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5', '0x380275805876ff19055ea900cdb2b46a94ecf20d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1409,7 +1429,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5'],
+                        requiredDVNs: ['0x589dEDbD617e0CBcB916A9223F4d1300c294236b', '0xa59ba433ac34d2927232918ef5b2eaafcf130ba5', '0x380275805876ff19055ea900cdb2b46a94ecf20d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1441,7 +1461,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e'],
+                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e', '0x54dd79f5ce72b51fcbbcb170dd01e32034323565'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1449,7 +1469,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e'],
+                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e', '0x54dd79f5ce72b51fcbbcb170dd01e32034323565'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1481,7 +1501,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b'],
+                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1489,7 +1509,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b'],
+                        requiredDVNs: ['0x129ee430cb2ff2708ccaddbdb408a88fe4ffd480', '0xdd7b5e1db4aafd5c8ec3b764efb8ed265aa5445b', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1521,7 +1541,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e'],
+                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e', '0x54dd79f5ce72b51fcbbcb170dd01e32034323565'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1529,7 +1549,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e'],
+                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e', '0x54dd79f5ce72b51fcbbcb170dd01e32034323565'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1561,7 +1581,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e'],
+                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e', '0x54dd79f5ce72b51fcbbcb170dd01e32034323565'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1569,7 +1589,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e'],
+                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e', '0x54dd79f5ce72b51fcbbcb170dd01e32034323565'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1601,7 +1621,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3'],
+                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3', '0xa7b5189bca84cd304d8553977c7c614329750d99'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1609,7 +1629,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3'],
+                        requiredDVNs: ['0x9e059a54699a285714207b43b055483e78faac25', '0x658947bc7956aea0067a62cf87ab02ae199ef3f3', '0xa7b5189bca84cd304d8553977c7c614329750d99'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1641,7 +1661,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e'],
+                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e', '0x54dd79f5ce72b51fcbbcb170dd01e32034323565'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1649,7 +1669,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e'],
+                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e', '0x54dd79f5ce72b51fcbbcb170dd01e32034323565'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1681,7 +1701,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c'],
+                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c', '0x1253e268bc04bb43cb96d2f7ee858b8a1433cf6d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1689,7 +1709,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c'],
+                        requiredDVNs: ['0x620a9df73d2f1015ea75aea1067227f9013f5c51', '0xb183c2b91cf76cad13602b32ada2fd273f19009c', '0x1253e268bc04bb43cb96d2f7ee858b8a1433cf6d'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1721,7 +1741,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76'],
+                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1729,7 +1749,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76'],
+                        requiredDVNs: ['0x28b6140ead70cb2fb669705b3598ffb4beaa060b', '0xb19a9370d404308040a9760678c8ca28affbbb76', '0x7fe673201724925b5c477d4e1a4bd3e954688cf5'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1761,7 +1781,7 @@ const config: OAppOmniGraphHardhat = {
                     },
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e'],
+                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e', '0x54dd79f5ce72b51fcbbcb170dd01e32034323565'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1769,7 +1789,7 @@ const config: OAppOmniGraphHardhat = {
                 receiveConfig: {
                     ulnConfig: {
                         confirmations: BigInt(15),
-                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e'],
+                        requiredDVNs: ['0x282b3386571f7f794450d5789911a9804fa346b4', '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e', '0x54dd79f5ce72b51fcbbcb170dd01e32034323565'],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
                     },
@@ -1790,6 +1810,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '0x282b3386571f7f794450d5789911a9804fa346b4',
                             '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e',
+                            '0x54dd79f5ce72b51fcbbcb170dd01e32034323565',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -1801,6 +1822,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '0x282b3386571f7f794450d5789911a9804fa346b4',
                             '0x05aaefdf9db6e0f7d27fa3b6ee099edb33da029e',
+                            '0x54dd79f5ce72b51fcbbcb170dd01e32034323565',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -1848,6 +1870,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '4VDjp6XQaxoZf5RGwiPU9NR1EXSZn2TP4ATMmiSzLfhb',
                             'GPjyWr8vCotGuFubDpTxDxy9Vj1ZeEN4F2dwRmFiaGab',
+                            'HR9NQKK1ynW9NzgdM37dU5CBtqRHTukmbMKS7qkwSkHX',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
@@ -1859,6 +1882,7 @@ const config: OAppOmniGraphHardhat = {
                         requiredDVNs: [
                             '4VDjp6XQaxoZf5RGwiPU9NR1EXSZn2TP4ATMmiSzLfhb',
                             'GPjyWr8vCotGuFubDpTxDxy9Vj1ZeEN4F2dwRmFiaGab',
+                            'HR9NQKK1ynW9NzgdM37dU5CBtqRHTukmbMKS7qkwSkHX',
                         ],
                         optionalDVNs: [],
                         optionalDVNThreshold: 0,
